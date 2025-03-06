@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/B3CELL/Cell_Armor"
+	"$bumpmap"  "models/B3CELL/phong"
+
+	"$nocull" 1
+	"$nodecal" 1
+
+	"$phong" "1"
+
+	"$lightwarptexture" "models/B3CELL/shinyshade"	
+}

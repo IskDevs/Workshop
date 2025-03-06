@@ -1,0 +1,35 @@
+VertexLitGeneric
+{
+	"$basetexture" "mlui2023/l4d2/survivors/VRC/Meiyun/Cheongsam/nick/Body"
+//$bumpmap 					dev/dev_normal
+$lightwarptexture			mlui2023/l4d2/survivors/VRC/Meiyun/Cheongsam/nick/skinwarp
+
+$selfillum	1
+
+$phong 1
+$phongboost	0.02			//调整反射强度
+
+//以下两类按需启用///////////////////////////
+//皮肤毛发情况使用
+$phongalbedotint 1
+$phongexponenttexture 	mlui2023/l4d2/survivors/VRC/Meiyun/Cheongsam/nick/phong_exp
+
+//其他情况使用
+//$phongexponent 12		
+////////////////////////////////////////////
+
+$phongfresnelranges			1 .1 .1
+
+$nodecal 				1
+//$nocull					1
+//$halflambert			1
+
+//修复僵尸变色
+//$allowdiffusemodulation 0
+
+$rimlight               1
+$rimlightexponent       3
+$rimlightboost          4
+
+$frame 1
+}

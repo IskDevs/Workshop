@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/wintermyth/dragon_ball/goku/hair"
+    	 "$bumpmap" "models/wintermyth/dragon_ball/goku/hair_normal"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "5"									
+	"$phongfresnelranges"	"[.2 .6  1]"
+   	 "$halflambert" 1
+}

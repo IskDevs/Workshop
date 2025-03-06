@@ -1,0 +1,9 @@
+"eyes"
+{
+	"$basetexture" "models/Aileri/christmas/bb/eyeball_r"
+	"$bumpmap"	"models/Aileri/christmas/bb/flat_n"
+	"$iris" "models/Aileri/christmas/bb/pupil_r"
+	"$EyeballRadius" "2.6" 
+	"$halflambert" 1
+	"$SphereTexkillCombo" "0" 	
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cktheamazingfrog/player/yoda/body"
+	"$surfaceprop" "Brick"
+}

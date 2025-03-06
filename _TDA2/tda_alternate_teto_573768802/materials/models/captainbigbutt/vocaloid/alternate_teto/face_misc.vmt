@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\vocaloid\alternate_teto\face"
+	"$bumpmap" "models\captainbigbutt\vocaloid\alternate_teto\normal"
+	"$translucent" "1"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\captainbigbutt\vocaloid\alternate_teto\facewarp"
+}

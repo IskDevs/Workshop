@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xnadragon/female_darkknight_eye"
+	"$normalmapalphaenvmapmask" "1"
+	"$nocull" 1
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+   	"$halflambert" "1"
+}

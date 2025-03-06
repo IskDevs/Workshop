@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/fiona/face"
+	"$nodecal" 1
+	$ambientocclusion 0
+	"$translucent" 1
+	"$lightwarptexture" "models/dewobedil/vocaloid/fiona/toon_head"
+}

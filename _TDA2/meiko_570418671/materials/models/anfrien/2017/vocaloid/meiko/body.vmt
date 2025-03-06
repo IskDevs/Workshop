@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/anfrien/2017/vocaloid/meiko/body"
+    	 "$bumpmap" "models/anfrien/2017/vocaloid/meiko/normal"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "5"									
+	"$phongfresnelranges"	"[0 0.5  1]"
+   	 "$halflambert" 1
+	"$nocull" 1
+}

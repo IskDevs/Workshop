@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "adps1yotsuba/output_31_tex0"
+        "$halflambert" 1
+	"$nocull" 1
+}

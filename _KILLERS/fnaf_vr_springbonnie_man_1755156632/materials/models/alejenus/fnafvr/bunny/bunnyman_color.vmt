@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/alejenus/fnafvr/bunny/bunnyman_color"
+	"$bumpmap" "models/alejenus/fnafvr/bunny/bunnynormal"
+	"$surfaceprop" "Flesh"
+	"$blendtintbybasealpha" "1" 
+	Proxies 
+	{
+		 PlayerColor 
+		{
+			 resultVar	$color2
+			default	0.75 0.75 0.75 
+		}
+	}
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Keegan\hesh_stealth_loadout_a_col"
+	"$bumpmap" "models\Keegan\hesh_stealth_loadout_a_n"
+}

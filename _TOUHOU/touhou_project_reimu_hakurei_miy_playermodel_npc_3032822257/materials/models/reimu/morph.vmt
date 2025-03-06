@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/reimu/Morph"
+
+"$lightwarptexture" "models/reimu/shader/lightwarptexture"
+	
+$nodecal 1
+$alphatest 1
+$allowalphatocoverage 1
+	
+"$rimlight"               "1"
+"$rimlightexponent"       "3"
+"$rimlightboost"          "4"
+}
+
+

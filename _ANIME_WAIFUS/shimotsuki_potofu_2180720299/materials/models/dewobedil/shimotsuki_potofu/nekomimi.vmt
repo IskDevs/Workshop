@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/shimotsuki_potofu/NEKOMIMI"
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0 0 5]"
+	"$lightwarptexture" "models/dewobedil/shimotsuki_potofu/toon_all"
+}

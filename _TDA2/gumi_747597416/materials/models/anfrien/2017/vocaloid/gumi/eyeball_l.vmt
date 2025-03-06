@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/anfrien/2017/vocaloid/gumi/sclera"
+	"$iris" "models/anfrien/2017/vocaloid/gumi/iris_l"
+	"$halflambert" 1
+}

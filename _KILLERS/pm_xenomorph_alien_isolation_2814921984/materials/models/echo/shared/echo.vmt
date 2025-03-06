@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+$basetexture "models/echo/shared/creatorsname"
+$bumpmap "models/echo/shared/empty_normal_map"
+
+$phong 1
+$phongfresnelranges "[0.5 0.75 1]"
+$phongexponent 10
+$phongboost 0.2
+}

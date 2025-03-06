@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xmasbolbi/pants"
+	
+	"$phong" 1
+	"$halflambert" 1
+	"$phongboost" 1	
+
+}

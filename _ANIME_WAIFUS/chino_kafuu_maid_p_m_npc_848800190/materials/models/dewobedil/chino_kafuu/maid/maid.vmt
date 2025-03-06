@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/chino_kafuu\maid/maid"
+	"$bumpmap" "models/dewobedil/chino_kafuu\maid/normal"
+
+	"$lightwarptexture" "models/dewobedil/chino_kafuu\maid/toon_skin"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/dewobedil/chino_kafuu\maid/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

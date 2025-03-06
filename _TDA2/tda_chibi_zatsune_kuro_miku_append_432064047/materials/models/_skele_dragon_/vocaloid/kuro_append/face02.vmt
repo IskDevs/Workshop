@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\_Skele_Dragon_\vocaloid\kuro_append\face"
+	"$bumpmap" "models\_Skele_Dragon_\vocaloid\kuro_append\normal"
+
+	"$lightwarptexture" "models\_Skele_Dragon_\vocaloid\kuro_append\facewarp"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\_Skele_Dragon_\vocaloid\kuro_append\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

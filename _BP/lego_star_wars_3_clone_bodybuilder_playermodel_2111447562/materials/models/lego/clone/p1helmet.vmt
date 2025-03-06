@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\lego\clone\p1helmet"
+	$phong "1"
+    $phongexponent "5"
+    $phongboost "1"
+    $phongfresnelranges "[0 0.5 1]"
+	$basemapalphaphongmask "0"
+	$basemapluminancephongmask "0"
+	$phongalbedotint "1"
+	
+	"$rimlight" "1"						
+ 	"$rimlightexponent" "2"				
+ 	"$rimlightboost" ".2"
+  
+}

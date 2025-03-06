@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models\csgo_knife\knife_bayonet_vanilla"
+	$bumpmap "null-bumpmap"
+
+	"$color2" "[3 3 3]"
+	$blendtintbybasealpha "1"
+	$blendTintColorOverBase  "0"
+	
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+
+	"$phongexponenttexture" "models\csgo_knife\knife_bayonet_vanillaa"
+    $phong "1"
+	$phongboost "16"
+	$phongexponent "30"
+	$phongalbedotint "1"
+	$phongfresnelranges "[0.25 0.55 1.0]"
+
+
+	"$phongcolortint" "[.1 .1 .1]"
+	
+	 
+	"$basemapalphaphongmask" "1"
+ 
+	"$envmapfresnel" "1"
+	
+	"$envmaptint" 		"[.01 .01 .01]"
+}
+
+

@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model/azuma/luvvy/mtl_skin_hand_azma"
+	"$bumpmap" "model\azuma\luvvy\normal"
+	"$normalmapalphaphongmask"	"1"
+	"$ambientocclusion" "0"
+	"$model" "1"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$alphatest" 1
+	"$allowalphatocoverage" "1"
+	"$halflambert" "1"
+
+	"$lightwarptexture" "model\azuma\luvvy\toon_skin"
+
+                "$phong" "1"
+                "$phongboost" ".83"
+                "$phongexponent" "5"
+	"$phongexponenttexture" "model\azuma\luvvy\exp"
+	"$phongalbedotint" "1"
+                "$phongfresnelranges"	"[-.2 -1 -2.81]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

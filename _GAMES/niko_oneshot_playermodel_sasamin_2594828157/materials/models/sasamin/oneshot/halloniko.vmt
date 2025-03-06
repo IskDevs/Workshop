@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sasamin\oneshot\halloniko"
+
+	"$alphatest" "1"
+}

@@ -1,0 +1,10 @@
+
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sasori/sasoricloak"
+                "$bumpamap"  "models/sasori/sasoricloak"
+                                   "$alphatest" "1"
+
+                                   "$halflambert" "1"
+
+}

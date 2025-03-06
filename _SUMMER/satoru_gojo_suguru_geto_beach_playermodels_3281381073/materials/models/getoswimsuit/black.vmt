@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models/getoswimsuit/Black"
+    "$bumpamap"  "models/getoswimsuit/Black"
+       
+ "$alphatest" "1"                            
+
+   "$halflambert" "1"
+
+    "$basetexture" "models/getoswimsuit/Black"
+
+                                   
+
+    "$lightwarptexture" "models/getoswimsuit/toon"
+
+    "$phong" "1"
+    "$phongboost"    "24"
+    "$phongalbedotint" "1"
+    "$phongfresnelranges"    "[0 0 1]"
+
+    "$rimlight"               "1"
+    "$rimlightexponent"       "2"
+    "$rimlightboost"          "2"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/guro/lolita_victoria/kizuato_D"
+	"$nodecal" 1
+	"$translucent" 1
+	"$lightwarptexture" "models/dewobedil/guro/lolita_victoria/toon_skin"
+}

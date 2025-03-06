@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mrpoopybutthole/mrpoopybutthole"
+                 "$model"                    "1"
+                 "$nocull" "1"
+}

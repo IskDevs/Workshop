@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "RIO/Rio_Clothes1"
+	$bumpmap "dev/dev_normal"
+	$lightwarptexture "RIO/skinwarp"
+	$phong 1
+	$phongboost .02
+	$phongfresnelranges 1 .1 .1
+	"$halflambert" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

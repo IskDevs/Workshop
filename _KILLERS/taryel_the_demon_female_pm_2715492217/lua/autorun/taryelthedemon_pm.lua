@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "HSC - Taryel the Demon", "models/player/hsc/taryel_the_demon.mdl" )
+player_manager.AddValidHands( "HSC - Taryel the Demon", "models/player/hsc/taryel_the_demon_arms.mdl", 0, "00000000" )

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cktheamazingfrog/player/yoda/teeth"
+	"$surfaceprop" "Boulder"
+	"$translucent" 1
+}

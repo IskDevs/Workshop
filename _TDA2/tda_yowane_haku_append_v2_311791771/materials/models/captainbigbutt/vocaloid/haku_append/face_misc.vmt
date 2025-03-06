@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\vocaloid\haku_append\face"
+	"$bumpmap" "models\captainbigbutt\vocaloid\haku_append\normal"
+	"$halflambert" "1"
+	"$translucent" "1"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\captainbigbutt\vocaloid\haku_append\facewarp"
+}

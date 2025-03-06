@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "(AC:NH - Special) Jingle", "models/catcraze777/animal_crossing/Jingle_acnh/Jingle_PM.mdl" )
+player_manager.AddValidHands( "(AC:NH - Special) Jingle", "models/catcraze777/animal_crossing/Jingle_acnh/Jingle_PM_arms.mdl", 0, "00000000" )

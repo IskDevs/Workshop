@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zerochain/zpn/particles/partypopper/zpn_candycorn"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

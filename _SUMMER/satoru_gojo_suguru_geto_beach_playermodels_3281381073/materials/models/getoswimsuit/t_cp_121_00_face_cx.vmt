@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models/getoswimsuit/T_CP_121_00_Face_CX"
+    "$bumpamap"  "models/getoswimsuit/T_CP_121_00_Face_CX"
+       
+ "$alphatest" "1"                            
+
+   "$halflambert" "1"
+
+    "$basetexture" "models/getoswimsuit/T_CP_121_00_Face_CX"
+
+                                   
+
+    "$lightwarptexture" "models/getoswimsuit/toon"
+
+    "$phong" "1"
+    "$phongboost"    "24"
+    "$phongalbedotint" "1"
+    "$phongfresnelranges"    "[0 0 1]"
+
+    "$rimlight"               "1"
+    "$rimlightexponent"       "2"
+    "$rimlightboost"          "2"
+}

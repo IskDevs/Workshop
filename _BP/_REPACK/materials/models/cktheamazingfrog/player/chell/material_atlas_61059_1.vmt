@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cktheamazingfrog/player/chell/Atlas_61059"
+	"$surfaceprop" "Brick"
+}

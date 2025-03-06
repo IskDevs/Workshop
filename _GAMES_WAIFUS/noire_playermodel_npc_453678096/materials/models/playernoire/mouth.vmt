@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models\playernoire\mouth"
+	"$halflambert"			"1"
+	"$translucent"			"1"
+	"$lightwarptexture"		"models\playernoire\NeptuniaLW"
+}

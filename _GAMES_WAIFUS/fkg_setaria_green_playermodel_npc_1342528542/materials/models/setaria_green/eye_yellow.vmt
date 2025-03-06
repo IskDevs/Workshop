@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\setaria_green\eye_yellow"
+	"$model" "1"
+	"$nodecal" "1"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	"$halflambert" "1"
+}

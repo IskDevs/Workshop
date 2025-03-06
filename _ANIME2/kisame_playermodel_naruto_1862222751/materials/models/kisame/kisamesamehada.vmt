@@ -1,0 +1,10 @@
+
+"VertexlitGeneric"
+{
+	"$basetexture" "models/kisame/kisamesamehada"
+                "$bumpamap"  "models/kisame/kisamesamehada"
+                                   "$alphatest" "1"
+
+                                   "$halflambert" "1"
+
+}

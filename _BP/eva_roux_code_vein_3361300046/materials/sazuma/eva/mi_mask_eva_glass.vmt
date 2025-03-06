@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sazuma/eva/MI_Mask_Eva_Glass"
+	"$nocull" 1
+	"$nodecal" 1
+	"$translucent" 1
+"$lightwarptexture" "sazuma\eva\toon"
+}

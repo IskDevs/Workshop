@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/anfrien/2017/vocaloid/gumi/face"
+    	"$bumpmap" "models/anfrien/2017/vocaloid/gumi/normal"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "5"									
+	"$phongfresnelranges"	"[0 0.5  1]"
+   	 "$halflambert" 1
+	"$nocull" 1
+	"$translucent" 1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Keegan\us_rangers_glove_a_col"
+	"$bumpmap" "models\Keegan\us_rangers_glove_a_n"
+}

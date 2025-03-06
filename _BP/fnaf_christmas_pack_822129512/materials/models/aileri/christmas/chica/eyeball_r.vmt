@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models/Aileri/christmas/chica/eyeball_r"
+	"$iris" "models/Aileri/christmas/chica/pupil_l"
+	"$EyeballRadius" "2.6" 
+	"$halflambert" 1		
+}

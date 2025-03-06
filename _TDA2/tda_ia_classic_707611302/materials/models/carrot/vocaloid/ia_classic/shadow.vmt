@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\carrot\vocaloid\ia_classic\face"
+	"$translucent" "1"
+}

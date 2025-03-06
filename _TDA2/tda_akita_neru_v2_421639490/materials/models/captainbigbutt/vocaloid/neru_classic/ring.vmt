@@ -1,0 +1,22 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\vocaloid\neru_classic\ring"
+	"$bumpmap" "models\captainbigbutt\vocaloid\neru_classic\normal"
+	"$model" "1"
+
+	"$lightwarptexture" "models\captainbigbutt\vocaloid\neru_classic\basewarp"
+
+	"$phong" "1"
+	"$phongboost"	"10"
+	"$phongexponent" "50"
+	"$phongfresnelranges"	"[.5 .5 3]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "90"
+	"$rimlightboost"          "5"
+
+	"$envmap" "models\captainbigbutt\vocaloid\neru_classic\cubemap_gray"
+	"$envmaptint" "8"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "{92 89 174}"
+}

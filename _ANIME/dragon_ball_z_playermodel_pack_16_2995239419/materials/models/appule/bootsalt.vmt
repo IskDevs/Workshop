@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Appule\bootsalt"
+
+	"$model" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric" {
+	$basetexture "models/tfa/qc/bj/blazkowicz_torso_d"
+	$color2 "[0.0 0.0 0.0]"
+	$blendTintByBaseAlpha "1"
+	$bumpmap "models/tfa/qc/bj/blazkowicz_torso_n"
+	$phongexponenttexture "models/tfa/qc/bj/blazkowicz_torso_sr"
+
+	$phong "1"
+	$phongfresnelranges "[0.15 0.55 1.0]"
+	$phongboost "32"
+	$phongalbedotint "1"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask "1"
+	$envmaptint "[0.3 0.3 0.3]"
+	$envmapfresnel "0.3"
+}

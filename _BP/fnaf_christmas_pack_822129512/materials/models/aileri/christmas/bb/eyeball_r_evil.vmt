@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Aileri/christmas/bb/eyeball_r_evil"
+	"$bumpmap"	"models/Aileri/christmas/bb/flat_n"
+                "$halflambert"                 "1"
+                "$selfillum" "1"
+	
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"10"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint" "1"
+	
+	$halflambert 1
+	$diffuseexp 1.5	
+}

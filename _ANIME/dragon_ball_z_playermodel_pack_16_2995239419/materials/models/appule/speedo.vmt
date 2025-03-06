@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Appule\speedo"
+
+	"$model" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/touhou/kasen_ibaraki/ksn_hair"
+	"$nocull" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongexponent" ".1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$phongwarptexture" "models/dewobedil/touhou/kasen_ibaraki/j"
+	"$lightwarptexture" "models/dewobedil/touhou/kasen_ibaraki/toon_all"
+}

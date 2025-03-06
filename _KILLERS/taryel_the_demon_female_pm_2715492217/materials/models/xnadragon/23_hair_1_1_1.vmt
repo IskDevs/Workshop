@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xnadragon/female_darkknight_hair"
+	"$bumpmap" "models/xnadragon/female_darkknight_hair_n"
+	"$normalmapalphaenvmapmask" "1"
+	"$nocull" 1
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+   	"$halflambert" "1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sasamin\oneshot\Brisket"
+	"$nocull" "1"
+}

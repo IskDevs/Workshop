@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/splinks/Jeff_the_Killer/Jeff_Pants"
+	$bumpmap "models/splinks/Jeff_the_Killer/Jeff_Pants_nrm"
+	$phongexponenttexture "models/splinks/Jeff_the_Killer/Jeff_Pants_splatter"
+
+
+
+ 	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"0.8"
+	"$phongfresnelranges"	"[0.05 0.3 2]"
+	"$phongalbedotint" "1"
+	"$nocull" 1
+	"$halflambert" 0
+
+}

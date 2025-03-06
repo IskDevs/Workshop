@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sasamin\oneshot\sorako"
+
+	"$alphatest" "1"
+}

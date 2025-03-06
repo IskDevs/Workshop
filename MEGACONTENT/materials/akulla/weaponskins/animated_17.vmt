@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "akulla/weaponskins/animated_17"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "30"
+		}
+	}
+}

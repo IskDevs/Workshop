@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/persona_nk/joker/BlackShirt"
+	"$nodecal" 1
+	"$phong" "1"
+	"$lightwarptexture" "models/persona_nk/joker/toon_gen2"
+
+}

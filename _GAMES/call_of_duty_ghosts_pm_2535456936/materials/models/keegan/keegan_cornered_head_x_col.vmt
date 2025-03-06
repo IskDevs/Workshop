@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Keegan\keegan_cornered_head_x_col"
+	"$bumpmap" "models\Keegan\keegan_cornered_head_x_n"
+}

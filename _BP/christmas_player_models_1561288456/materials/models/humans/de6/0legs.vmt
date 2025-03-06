@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Humans\de6\0Legs"
+	"$halflambert" 1
+	"$model" 1
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/gumi/bikini/face_MikuAp_G_eye15"
+	"$nodecal" 1
+	"$ambientocclusion" "0"
+	"$halflambert" "1"
+	"$lightwarptexture" "models/dewobedil/vocaloid/gumi/bikini/toon_head"
+}

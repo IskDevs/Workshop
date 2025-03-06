@@ -1,0 +1,15 @@
+"Refract"
+{
+	"$basetexture" "models/player/lty/white/hp_s"
+//	"$refracttinttexture" "models/player/lty/white/hp_s"
+	"$normalmap" "models/player/lty/shader/normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.75 .75 .75]"
+	
+ 	"$refractamount" ".1"
+ 	"$bluramount" "1"
+	"$scale" "[1 1]"
+	
+	"$nodecal" "1"
+ 	"$model" 1	
+}

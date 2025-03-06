@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/comradebear/comradebear_pioneer/patch"
+	"$translucent" 1
+}

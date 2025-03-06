@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/lego_knuckles/0_0_0"
+	"$surfaceprop" "Flesh"
+}

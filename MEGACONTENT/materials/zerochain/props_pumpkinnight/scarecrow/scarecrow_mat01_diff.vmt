@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"					"zerochain/props_pumpkinnight/scarecrow/scarecrow_mat01_diff"
+	"$bumpmap"  					"zerochain/props_pumpkinnight/scarecrow/scarecrow_mat01_nrm"
+	"$normalmapalphaenvmapmask" 	"1"
+	
+	"$surfaceprop" 					"default_silent"
+	"$model" 						1
+	"$halflambert" 					1
+	$nodecal 						1
+
+	$phong 							1
+	$phongtint 						"[1 1 1]"
+	$phongfresnelranges 			"[1 1 1]"
+	
+	$phongexponent					2
+	$phongboost 					0.5
+	
+	$nocull 1
+
+}

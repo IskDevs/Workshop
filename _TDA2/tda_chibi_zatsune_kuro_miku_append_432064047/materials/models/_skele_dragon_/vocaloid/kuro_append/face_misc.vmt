@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\_Skele_Dragon_\vocaloid\kuro_append\face"
+	"$bumpmap" "models\_Skele_Dragon_\vocaloid\kuro_append\normal"
+	"$translucent" "1"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\_Skele_Dragon_\vocaloid\kuro_append\facewarp"
+}

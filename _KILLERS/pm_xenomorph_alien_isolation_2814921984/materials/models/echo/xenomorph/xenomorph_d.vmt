@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+$basetexture "models/echo/xenomorph/isoxenoblack2"
+$bumpmap "models/echo/xenomorph/isonormal"
+$surfaceprop Alienflesh
+
+$detail "models/echo/xenomorph/detail_metal11"
+	$detailscale "15"
+	$detailblendfactor "0.8"
+
+$phong 1
+//$phongexponenttexture "models/echo/xenomorph/xenoexponent"
+$phongfresnelranges "[0.3 0.5 1]"
+//$phongwarptexture "models/echo/xenomorph/oil_phongwarp"
+$halflambert 1
+$phongboost 0.8
+$phongexponent 30
+}

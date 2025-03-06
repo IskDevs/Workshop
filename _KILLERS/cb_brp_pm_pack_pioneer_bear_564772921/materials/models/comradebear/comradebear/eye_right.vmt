@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/comradebear/comradebear/eye_right"
+	"$iris" "models/comradebear/comradebear/eye-iris-brown_l"
+	"$halflambert" 1
+}

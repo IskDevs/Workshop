@@ -1,0 +1,3 @@
+local Category = "Humans + Resistance" local NPC = { Name = "mrpoopybutthole", Class = "npc_citizen", Model = "models/mrpoopybutthole/mrpoopybutthole_reference.mdl", Health = "150", KeyValues = { citizentype = 4 }, Category = Category } list.Set( "NPC", "npc_mrpoopybutthole", NPC )
+
+local Category = "Combine" local NPC = { Name = "mrpoopybutthole", Class = "npc_combine_s", Model = "models/mrpoopybutthole/mrpoopybutthole_reference.mdl", Category = Category } list.Set( "NPC", "npc_badmrpoopybutthole", NPC )

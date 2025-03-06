@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pacagma/xenoblade_chronicles_2/mythra/earings"
+	"$bumpmap" "pacagma/xenoblade_chronicles_2/mythra/ear_map"
+	//"$translucent" "1"
+	//"$model" "1"
+	//"$nodecal" "1"
+	"$nocull" "1"
+	//"$alphatest" 1
+	//"$allowalphatocoverage" 1
+	//"$halflambert" "1"
+	
+
+	"$lightwarptexture" "pacagma/xenoblade_chronicles_2/mythra/lightwarptexture"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "pacagma/xenoblade_chronicles_2/mythra/phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

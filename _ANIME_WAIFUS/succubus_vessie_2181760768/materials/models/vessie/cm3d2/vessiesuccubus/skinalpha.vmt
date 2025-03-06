@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vessie/cm3d2/vessiesuccubus/skinalpha"
+	"$translucent" "1"
+	"$mostlyopaque" "1"
+	"$model" "1"
+	"$nodecal" "1"
+	"$allowalphatocoverage" 1
+	"$halflambert" "1"
+
+	"$lightwarptexture" "models/vessie/cm3d2/vessiesuccubus/toon_head"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+	"$ambientocclusion" "0"
+}

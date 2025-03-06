@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model/g41/girlsfrontline/clancy/ArmArmor_join2"
+	"$bumpmap" "model\g41\girlsfrontline\clancy\normal"
+	//"$translucent" "1"
+	//"$model" "1"
+	//"$nodecal" "1"
+	//"$nocull" "1"
+	//"$alphatest" 1
+	//"$allowalphatocoverage" 1
+	//"$halflambert" "1"
+
+	"$lightwarptexture" "model\g41\girlsfrontline\clancy\skinwarp"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "model\g41\girlsfrontline\clancy\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

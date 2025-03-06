@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vessie/cm3d2/vessiesuccubus/hairR"
+	"$bumpmap" "models\vessie/cm3d2/vessiesuccubus/hairR_n"
+	//"$translucent" "1"
+	//"$model" "1"
+
+	"$phong" "1"
+	"$phongboost"	".2"
+	"$phongalbedotint" "1"
+	"$phongexponent" "15"
+	"$phongfresnelranges"	"[1 1 1]"
+
+	"$lightwarptexture" "models/vessie/cm3d2/vessiesuccubus/toon_hair"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "0.5"
+	"$rimlightboost"          "0.5"
+	"$nodecal" 1
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/alejenus/fnafvr/bunny/bunnyglitch"
+	"$bumpmap" "models/alejenus/fnafvr/bunny/bunnynormal"
+	"$surfaceprop" "Concrete"
+	"$phong" "1"
+	"$phongexponent" "3"			
+	"$phongboost" "1.0"
+	"$phongfresnelranges" "[0 1 0.7]"
+	"$phongtint" "[0 .5 0]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "2"
+	"$rimlightboost" "1"
+		
+}

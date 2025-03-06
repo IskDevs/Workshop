@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/lty/face_MikuAp"
+	
+	"$basemapalphaenvmapmask" "1"	
+	"$Envmap"             "env_cubemap"
+	"$Envmaptint"     "[ 0.5 0.5 0.5 ]"		
+	"$EnvmapFresnel" 			"1"
+	"$EnvmapFresnelMinMaxExp"		"[0 .4 1]"
+	
+	"$basemapalphaphongmask" "1"	
+ 	"$phong" 			"1"
+	"$phongboost" 			"0.1"
+	"$phongfresnelranges"   	"[1 1 1]"
+	"$phongexponent" 		"100"
+	
+	"$lightwarptexture" "models/player/lty/shader/cartoon_shader"
+	
+	"$halflambert" "1"	
+	"$nodecal" "1"
+	"$selfillum" "1"
+	"$AmbientOcclusion" "0"	
+	
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "3"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "4"										// Boost for ambient cube component of rim lighting
+}

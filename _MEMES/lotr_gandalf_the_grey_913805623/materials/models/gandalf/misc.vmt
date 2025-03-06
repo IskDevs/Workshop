@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gandalf/misc"
+	"$nocull" 1
+}

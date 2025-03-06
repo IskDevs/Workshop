@@ -1,0 +1,19 @@
+"patch"
+{
+	"include" "materials/models/survivors/survivors_it_shared.vmt"
+
+	"insert"
+	{
+	"$basetexture" "tda/riria_summer_suit/bq"
+	"$lightwarptexture" "tda/riria_summer_suit/basewarp"
+         "$bumpmap" "tda/riria_summer_suit/normal"
+        "$nocull" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+                 }
+}

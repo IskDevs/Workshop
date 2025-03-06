@@ -1,0 +1,18 @@
+Eyes
+{
+$Iris "models/splinks/Jeff_the_Killer/eyeball_r" 
+$AmbientOcclTexture 		"models/splinks/Jeff_the_Killer/eyeball_r" 
+$Envmap "Engine/eye-reflection-cubemap-" 
+$CorneaTexture "Engine/eye-cornea" 
+$EyeballRadius "0.2" 
+$AmbientOcclColor "[1 1 1]" 
+$Dilation ".7" 
+$ParallaxStrength "0" 
+$CorneaBumpStrength ".1" 
+$halflambert 1
+$nodecal 1
+$ambientocclusion 0
+
+$RaytraceSphere 0
+$SphereTexkillCombo 0 
+}

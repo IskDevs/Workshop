@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+//note from Echo
+//full credits to Zachariah for the textures I didn't make them or port them.
+	"$basetexture" "models/echo/xenomorph/isoxenored"
+	"$bumpmap" "models/echo/xenomorph/isonormal"
+       	"$halflambert" "1"
+	$surfaceprop alienflesh
+	$phong 1
+
+	$phongboost 0.5
+	$phongfresnelranges "[1 1 1]"
+	"$phongexponent" 30
+	"$phongwarptexture" "models/echo/xenomorph/phongwarp_deepred"
+
+	$detail "models/echo/xenomorph/detail_metal11"
+	$detailblendmode "0"
+	$detailscale "15"
+	$detailblendfactor "0.8"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.08 0.01 0.01]"
+}
+
+
+
+

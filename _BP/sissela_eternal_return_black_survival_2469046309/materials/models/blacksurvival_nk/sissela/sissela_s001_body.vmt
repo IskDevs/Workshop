@@ -1,0 +1,26 @@
+VertexLitGeneric
+{
+	$basetexture "models/blacksurvival_nk/sissela/Sissela_S001_Body"
+                $color2 "[1 1 1]"
+	$surfaceprop Flesh
+	$normalmapalphaenvmapmask "1"
+
+	$lightwarptexture "models/blacksurvival_nk/sissela/toon_cb"
+
+                $halflambert 1
+
+	$phong 1
+	$phongfresnelranges "[0.2 0.2 0.24]"
+	$phongtint "[1 1 1]"
+	$phongalbedotint 1
+	$phongexponent 0.1
+	$phongboost 0.04
+	$phongalbedoboost 4
+
+	$rimlight 0
+	$rimlightexponent 5
+	$rimlightboost 1
+	$rimlightmask 1
+
+	$rimmask 1
+}

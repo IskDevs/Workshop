@@ -1,0 +1,10 @@
+
+"VertexlitGeneric"
+{
+	"$basetexture" "models/deidara/deidarahair"
+                "$bumpamap"  "models/deidara/deidarahair"
+                                   "$alphatest" "1"
+
+                                   "$halflambert" "1"
+
+}

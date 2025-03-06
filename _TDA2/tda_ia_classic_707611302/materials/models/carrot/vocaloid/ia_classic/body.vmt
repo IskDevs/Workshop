@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\carrot\vocaloid\ia_classic\body"
+	"$bumpmap" "models\carrot\vocaloid\ia_classic\normal"
+
+	"$lightwarptexture" "models\carrot\vocaloid\ia_classic\facewarp"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\carrot\vocaloid\ia_classic\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

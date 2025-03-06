@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xnadragon/female_darkknight_2_b"
+	"$bumpmap" "models/xnadragon/female_darkknight_2_b_normal"
+	"$normalmapalphaenvmapmask" "1"
+   	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.1 1 .1]"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+
+
+	"$nocull" 1
+}

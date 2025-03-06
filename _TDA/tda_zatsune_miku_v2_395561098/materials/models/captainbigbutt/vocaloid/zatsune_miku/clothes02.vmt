@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\vocaloid\zatsune_miku\clothes02"
+	"$bumpmap" "models\captainbigbutt\vocaloid\zatsune_miku\normal"
+	"$nocull" "1"
+	"$color2" "[0.75 0.75 0.75]"
+
+	"$lightwarptexture" "models\captainbigbutt\vocaloid\zatsune_miku\basewarp"
+
+	"$phong" "1"
+	"$phongboost"	"1.5"
+	"$phongexponent" "32"
+	"$phongfresnelranges"	"[.05 .5 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "64"
+	"$rimlightboost"          "3"
+
+	"$detail" "models\captainbigbutt\vocaloid\zatsune_miku\clothes02_illum"
+	"$detailscale" "1"
+	"$detailblendfactor" ".3"
+	"$detailblendmode" "5"
+}
+

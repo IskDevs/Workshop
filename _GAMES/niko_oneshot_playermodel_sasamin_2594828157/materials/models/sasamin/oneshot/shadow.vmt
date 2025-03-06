@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sasamin\oneshot\shadow"
+	"$bumpmap" "models\sasamin\oneshot\normal"
+	"$nodecal" "1"
+
+	"$cloakpassenabled" "1"
+	"$cloakfactor" "0.95"
+	"$cloakcolortint" "[0 0 0]"
+	"$refractamount" "0"
+}
