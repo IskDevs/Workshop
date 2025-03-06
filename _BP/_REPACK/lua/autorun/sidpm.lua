@@ -1,1 +1,0 @@
-player_manager.AddValidModel("Sid Ice Age: Arctic Blast","models/player/sidthesloth.mdl")

@@ -1,1 +1,0 @@
-player_manager.AddValidModel( "darkelf", "models/player/darkelf.mdl" );

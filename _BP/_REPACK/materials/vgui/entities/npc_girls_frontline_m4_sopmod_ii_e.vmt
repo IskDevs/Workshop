@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/entities/npc_girls_frontline_m4_sopmod_ii_e"
-	"$nolod" 1
-	"$vertexalpha" 1
-	"$vertexcolor" 1
-}

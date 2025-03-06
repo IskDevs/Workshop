@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-	"$basetexture" "mlui2023/l4d2/survivors/VRC/Meiyun/Cheongsam/nick/Morph"
-	"$translucent" 1
-	$selfillum				1
-}

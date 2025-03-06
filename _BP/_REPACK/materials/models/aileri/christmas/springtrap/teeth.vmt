@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/Aileri/christmas/springtrap/teeth"
-	"$bumpmap"	"models/Aileri/christmas/springtrap/teeth_n"
-	
-$halflambert 1
-$diffuseexp 1.5
-}

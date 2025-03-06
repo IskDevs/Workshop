@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	$basetexture "color/black"
-	$lightwarptexture "models/dih/commissions/nikke_snowwhite/shared/toon_head"
-	$nodecal 1
-}

@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models\XmasMissFowl\MissFowlbody"
-	
-	"$phong" 1
-	"$halflambert" 1
-	"$phongboost" 1	
-
-}

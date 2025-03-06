@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\Humans\de6\eyelashe"
-	"$nocull" 1
-	"$translucent" 1
-	"$halflambert" 1
-	"$model" 1
-}

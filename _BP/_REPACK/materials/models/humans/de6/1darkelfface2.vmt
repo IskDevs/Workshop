@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\Humans\de6\1darkelfFace2"
-//	"$bumpmap" "models\Humans\de6\1darkelfFace2_normal"
-	"$halflambert" 1
-	"$nodecal" "1"
-	"$model" 1
-}

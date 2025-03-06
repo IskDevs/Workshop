@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "sazuma/mahoraga/base"
-	"$nocull" 1
-	"$nodecal" 1
-"$lightwarptexture" "sazuma\mahoraga\toon"
-}

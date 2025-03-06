@@ -1,1 +1,0 @@
-player_manager.AddValidModel( "LEGO Sonic The Hedgehog (LEGO Dimensions)","models/mario8251_pm/legosonic.mdl" )

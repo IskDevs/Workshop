@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/dewobedil/girls_frontline/m4_sopmod_ii/m4mod2_face"
-	"$ambientocclusion" "0"
-	"$halflambert" "1"
-	"$nodecal" 1
-	"$phong" "1"
-	"$lightwarptexture" "models/dewobedil/girls_frontline/m4_sopmod_ii/toon_head"
-}

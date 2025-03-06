@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/xmasbolbi/face"
-	
-	"$phong" 1
-	"$halflambert" 1
-	"$phongboost" 1	
-
-}

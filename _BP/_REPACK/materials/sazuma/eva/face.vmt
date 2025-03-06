@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "sazuma/eva/face"
-	"$nocull" 1
-	"$nodecal" 1
-"$lightwarptexture" "sazuma\eva\toon"
-}
