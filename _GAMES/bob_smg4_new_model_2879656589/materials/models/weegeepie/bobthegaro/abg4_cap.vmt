@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Weegeepie/BobTheGaro/abg4_cap"
+	"$bumpmap"     "models/Weegeepie/BobTheGaro/abg4_cap_nrm"
+	"$phong" "1"
+
+	"$phongexponent" "8"
+	"$phongboost" "0.3"
+	"$phongexponenttexture" "models/apocmodels/mario/Mario/mar_body_mask"
+	"$phongfresnelranges"	"[.1 1 8]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+	"$rimmask" "1"
+}

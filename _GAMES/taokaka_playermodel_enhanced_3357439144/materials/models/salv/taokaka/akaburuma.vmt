@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/salv/Taokaka/Akaburuma"
+	"$bumpmap" "models/salv/Taokaka/Akaburuma_n"
+	"$nocull" 1
+	
+	"$phong" 			"1"
+	"$phongexponent" 		"5"
+	"$phongboost"		"3"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+
+	"$blendtintbybasealpha" "1" 
+	"$blendtintcoloroverbase" "0"  
+
+	"Proxies"
+	{
+				
+                             "PlayerColor"                         
+{
+                                resultVar $color2
+                                default 0 0 0
+	               }
+	}
+}
+
+

@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Death - Puss in Boots", "models/alvaroports/deathpussypm.mdl" )
+player_manager.AddValidHands( "Death - Puss in Boots", "models/alvaroports/deathpussyvm.mdl", 0, "0000000" )
