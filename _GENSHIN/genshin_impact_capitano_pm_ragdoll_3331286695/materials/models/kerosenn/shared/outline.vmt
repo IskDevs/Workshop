@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/kerosenn/shared/outline"
+
+	$ambientocclusion 0
+
+	$translucent	1
+}

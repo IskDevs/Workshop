@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/childe/body"
+                "$bumpamap"  "models/childe/body"
+                                   "$alphatest" "1"
+
+                                   "$halflambert" "1"
+
+}

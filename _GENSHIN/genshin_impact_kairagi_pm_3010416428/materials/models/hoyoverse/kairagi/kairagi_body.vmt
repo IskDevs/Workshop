@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoyoverse/kairagi/Kairagi_Body"
+	"$bumpmap" "models/hoyoverse/kairagi/bump_flat"
+                "$lightwarptexture" "models/hoyoverse/kairagi/basewarp"
+	"$nocull" 1
+	"$nodecal" 1
+}
