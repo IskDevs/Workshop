@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "model\rstar\honkai_impact\Shigure_kira_Fuzzy_Pink_Love\skin_face"
+	
+		"$nocull" "0"
+			"$halflambert" "1"
+	
+	"$ambientocclusion" "0"
+	"$nodecal" "1"
+	"$lightwarptexture" "shared\cartoon_shader"
+
+                "$phong" "1"
+                "$phongboost" "0.7"
+                "$phongexponent" "5"
+	"$phongexponenttexture" "shared\phong_exp"
+                "$phongfresnelranges"	"[0 0.5 1]"
+}

@@ -1,0 +1,28 @@
+VertexLitGeneric
+{
+	$basetexture "models/kofxv\isla/clothes"
+	$bumpmap "models/kofxv\isla/clothes_n"
+                $color2 "[ 0.7 0.7 0.7 ]"
+	$surfaceprop Flesh
+
+	$lightwarptexture "models/kofxv\isla/toon_c"
+	$alphatest 0
+
+
+	$phong 1
+                "$phongfresnelranges"    "[1 1 0.945]"
+	$phongalbedotint 1
+	$phongexponent 5
+	$phongboost 1
+	$phongalbedoboost 4
+                $phongexponenttexture "models/kofxv\isla/clothes_e"
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 1
+	$rimlightmask 1
+
+
+	$rimmask 1
+
+}

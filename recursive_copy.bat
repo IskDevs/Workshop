@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 REM Set the source and target directories
-set "source_directory=C:\Github\Workshop\Workshop"
+set "source_directory=C:\Workshop"
 set /p "expected_folder=Enter folder name: "
 set "target_directory=%source_directory%\%expected_folder%\_REPACK"
 

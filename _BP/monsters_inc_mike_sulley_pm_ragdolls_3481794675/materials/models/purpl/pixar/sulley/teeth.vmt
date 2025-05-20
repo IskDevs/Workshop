@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models/purpl/pixar/sulley/face_mouth_base"
+	$bumpmap "models/purpl/pixar/sulley/face_mouth_nrm"
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.97 0.97 0.97]"
+	$phongexponent 2
+	$phongboost 0.51
+
+	$color2 "[0.64 0.62 0.58]"
+}

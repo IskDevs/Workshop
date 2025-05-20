@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture "models/purpl/pixar/sulley/fur_base"
+	$bumpmap "models/purpl/pixar/sulley/fur_nrm"
+
+	$alpha 0.07
+	$alphatest 1
+	$alphatestreference 0.96
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.55 0.80 0.79]"
+	$phongexponent 5
+	$phongboost 0.84
+
+	$color2 "[0.32 0.62 0.64]"
+	$tintmasktexture "models/purpl/pixar/sulley/body_base_fur"
+}

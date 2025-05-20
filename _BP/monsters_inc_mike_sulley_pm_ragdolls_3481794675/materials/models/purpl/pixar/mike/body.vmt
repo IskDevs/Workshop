@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models/purpl/pixar/mike/body_base_base"
+	$bumpmap "models/purpl/pixar/mike/body_base_nrm"
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.63 0.81 1]"
+	$phongtint "[0.76 0.79 0.61]"
+	$phongexponent 2
+	$phongboost 0.61
+
+	$color2 "[0.82 0.85 0.80]"
+}
