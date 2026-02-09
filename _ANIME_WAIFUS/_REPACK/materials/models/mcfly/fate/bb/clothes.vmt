@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mcfly\fate\bb\clothes"
+	"$bumpmap" "models\mcfly\fate\bb\normal"
+	"$lightwarptexture" "models\mcfly\fate\bb\clothwarp"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongboost"	".01"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.5"
+
+
+}

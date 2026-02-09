@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Toph Beifong (FortniteATLA)", "models/munch/models/avatar/TophBeifongPM.mdl" )
+player_manager.AddValidHands( "Toph Beifong (FortniteATLA)", "models/munch/models/avatar/TophBeifongVM.mdl" )

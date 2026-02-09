@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/dewobedil/touhou/hong_meiling/Yg_face"
-	"$ambientocclusion" "0"
-	"$nodecal" 1
-	"$phong" "1"
-	"$lightwarptexture" "models/dewobedil/touhou/hong_meiling/toon_head"
-}

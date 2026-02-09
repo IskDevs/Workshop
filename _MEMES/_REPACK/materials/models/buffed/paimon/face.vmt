@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Buffed/Paimon/Face"
+	"$normalmapalphaphongmask"	"1"
+	"$phong" "1"
+	"$phongboost"	"10"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/Buffed/Paimon/phong_exp"
+	"$phongfresnelranges"	"[.01 .01 2]"
+
+	"$lightwarptexture" "models/Buffed/Paimon/cartoon_shader"
+
+	"$halflambert" "1"	
+	"$AmbientOcclusion" "0"
+	"$nodecal" "1"
+}

@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "Nurani/Redeyeblink"
+	"$nocull" 1
+	"$halflambert" "1"
+	"$selfillum" 1
+
+	"$phong" "1"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[0.10 0.10 0.10]"
+	"$phongexponent" "10"
+
+	"Proxies"
+		{
+			"AnimatedTexture"
+			{
+				"animatedtexturevar" "$basetexture"
+				"animatedtextureframenumvar" "$frame"
+				"animatedtextureframerate" 30.00
+			}
+}
+}

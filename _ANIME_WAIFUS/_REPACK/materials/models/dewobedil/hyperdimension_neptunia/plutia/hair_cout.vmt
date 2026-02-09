@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/hyperdimension_neptunia/plutia/hair_cout"
+	"$nocull" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$lightwarptexture" "models/dewobedil/hyperdimension_neptunia/plutia/toon_all"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "3"
+}

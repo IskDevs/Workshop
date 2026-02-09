@@ -1,0 +1,4 @@
+VertexLitGeneric {
+	$basetexture "Reiko/ZenlessZone/Burnice/body"
+	$lightwarptexture "Reiko/ZenlessZone/Burnice/basewarp"
+}

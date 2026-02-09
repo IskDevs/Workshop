@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cktheamazingfrog/player/bugs/bugs_bunny_default_body"
+	"$surfaceprop" "Flesh"
+}

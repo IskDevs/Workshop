@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hellinspector/lego_incredibles/woody/WoodyFace10"
+	"$nocull" 1
+}

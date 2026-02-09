@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sogeki/sogeki_face"
+
+"$lightwarptexture" "models\sogeki\toon"
+}

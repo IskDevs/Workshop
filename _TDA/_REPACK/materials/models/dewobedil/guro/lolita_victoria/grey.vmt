@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/guro/lolita_victoria/grey"
+	"$nocull" 1
+	"$nodecal" 1
+	"$lightwarptexture" "models/dewobedil/guro/lolita_victoria/toon_shirt"
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongalbedotint" "1"
+}

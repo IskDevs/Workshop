@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/kapuyas/multiversus/adventure_time/finn/doomguy/otherthings/Allies/Bmo_Material"
+	"$bumpmap" "models/kapuyas/multiversus/adventure_time/finn/doomguy/shared/blanknormal"
+	"$lightwarptexture" "models/kapuyas/multiversus/adventure_time/finn/doomguy/kap_ani_lightwarp25"
+	
+	"$phong" "1"
+	"$phongboost" ".3"
+    "$phongexponent"  "65"
+	"$phongfresnelranges" "[.1 .2 2]"
+    $phongalbedotint "1"	
+	$blendtintbybasealpha "1"	
+
+    "$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "60"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "3"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "htasd/nemasd/balabala/npc_shu_901_face_d"
+         "$bumpmap" "htasd/nemasd/balabala/normal"
+	"$lightwarptexture" "htasd/nemasd/balabala/basewarp"
+        "$nocull" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+$rimlight               1
+$rimlightexponent       3
+$rimlightboost          4
+}
+

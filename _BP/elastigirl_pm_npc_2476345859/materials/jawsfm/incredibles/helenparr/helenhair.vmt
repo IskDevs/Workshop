@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+	$basetexture "JawSFM/Incredibles/HelenParr/Helen_Hair_dif"
+	$bumpmap    "JawSFM/Incredibles/HelenParr/Helen_Empty_nrm"
+	
+	$phong	1
+	$phongboost	.1
+	$phongexponent	10
+	$phongfresnelranges	"[0 .5 1]"
+
+	$nocull 1
+}

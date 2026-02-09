@@ -1,0 +1,13 @@
+"VertexLitGeneric" {
+	$basetexture "models/tfa/qc/bj/blazkowicz_eyelashes_da"
+	$bumpmap "models/tfa/qc/bj/blazkowicz_eyelashes_n"
+
+	$phong "1"
+	$phongfresnelranges "[0.04 0.15 1.0]"
+	$phongboost "4"
+	$phongexponent "4"
+
+	$translucent "1"
+
+	$nocull "1"
+}

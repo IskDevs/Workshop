@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/appearance_miku/colorful/Amiku6"
+	"$nodecal" "1"
+	$ambientocclusion 0
+	"$translucent" 0
+	$phong "1"
+	$phongboost "1"
+	$phongexponent ".1"
+	$phongfresnelranges "[1 .1 .1]"
+	"$phongwarptexture" "models/dewobedil/vocaloid/appearance_miku/colorful/A2"
+	"$lightwarptexture" "models/dewobedil/vocaloid/appearance_miku/colorful/toon_all"
+}

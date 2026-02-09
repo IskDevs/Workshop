@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fallguys/costumes/astronaut"
+	"$bumpmap" "models/fallguys/costumes/astronautbump"
+	"$phongexponenttexture" "models/fallguys/face"
+
+	"$halflambert" "1"
+
+	"$phongexponent" "3"
+	"$phongalbedotint" "1"
+	"$phong" "1"
+	"$phongboost" "0.2"
+	"$phongfresnelranges" "[2 2 2 2]"
+
+	"$model" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Angel/eyesa"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .12 .12 .12 ]"
+	"$normalmapalphaenvmapmask" "1"         
+}

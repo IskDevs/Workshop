@@ -1,0 +1,52 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\touhou\props\minihakkero/colors"
+		"$lightwarptexture" "models/touhou/shader/face_shader"
+
+
+
+$ambientocclusion "1"
+
+
+	$selfillummask "models\touhou\props\minihakkero/colors"
+
+//$selfillum "1"
+$selfillumtint "[.9 .9 .9]"
+
+
+	$emissiveBlendEnabled 1 								//enable this weird version of selfillum
+	$emissiveBlendTexture     "dev/null" 							//ignore this for now, it's hacky
+	"$emissiveBlendBaseTexture" "models\touhou\props\minihakkero/colors"
+
+	$emissiveBlendFlowTexture  "dev/null" 	
+	$emissiveBlendTint "[1 1 1]" 								//full glow brightness
+	$emissiveBlendStrength .1								//half glow intensity ( don't worry, still plenty, don't want to go up to 1 )
+	$emissiveBlendScrollVector "[0 0]"							//ignore this, it's only used in certain cases							//full glow brightness
+
+
+"$detail" "models\touhou\props\minihakkero/colors"
+
+$detailblendmode "1"
+
+$detailscale "1"
+$detailblendfactor ".16"
+$detailtint " .1 1 1"
+
+
+"$color2" "[ 0.95  0.95  0.95]"
+
+$nocull "1"
+$phong          "1"
+	$phongboost     "0.8"
+	$phongexponent      "20"
+	"$phongexponenttexture" "models/touhou/shader/phong_exp"
+	"$phongfresnelranges"	"[.1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "18"
+	"$rimlightboost"          "1.7"
+
+
+
+}
+

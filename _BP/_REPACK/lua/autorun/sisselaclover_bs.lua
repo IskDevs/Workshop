@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Sissela Kyle (Clover)", "models/blacksurvival_nk/sissela/sisselaclover_bs.mdl" );
+player_manager.AddValidHands( "Sissela Kyle (Clover)", "models/blacksurvival_nk/sissela/sisselaclover_bs_arm.mdl", 0, "00000000" )

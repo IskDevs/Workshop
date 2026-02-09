@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	$basetexture "models/purpl/pixar/sulley/black"
+	$bumpmap "models/purpl/pixar/sulley/flat small"
+
+	$alpha 0.07
+	$translucent 1
+	$additive 1
+	$decal 1
+
+	$envmap "models/purpl/pixar/sulley/specularity_00"
+	$envmaptint "[0.05 0.05 0.05]"
+
+	$phong 1
+	$phongfresnelranges "[0.63 0.81 1]"
+	$phongexponent 145
+	$phongboost 2.09
+
+	$allowalphatocoverage 1
+}

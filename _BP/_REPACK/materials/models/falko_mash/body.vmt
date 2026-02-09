@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/falko_mash/Body"
+	"$lightwarptexture" "models/falko_mash/lightwarpshader"
+}

@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vessie/cm3d2/vessiesuccubus/pantsuarmor"
+	"$bumpmap" "models/vessie/cm3d2/vessiesuccubus/pantsuarmor_n"
+
+	"$alphatest" "1"
+	"$allowalphatocoverage" "1" 
+	"$mostlyopaque" "1"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"25"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/vessie/cm3d2/vessiesuccubus/phong_exp"
+	"$phongfresnelranges"	"[0.2 0.20 0.15 ]"
+
+	"$lightwarptexture" "models/vessie/cm3d2/vessiesuccubus/toon_all"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "0.50"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.009 0.009 0.009]"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$ambientocclusion" "1"
+	"$nodecal" 1
+
+	"$color2" "[0.45 0.45 0.45]"
+}

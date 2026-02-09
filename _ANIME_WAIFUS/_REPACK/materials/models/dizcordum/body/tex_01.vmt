@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\dizcordum\body\tex_01"
+	"$bumpmap" "models\dizcordum\body\tex_01_n"
+	"$nocull" "1"
+	"$lightwarptexture" "models\dizcordum\body\facewarp"
+
+	"$phong" "1"
+	"$phongboost"	"10"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\dizcordum\body\phong_exp"
+	"$phongfresnelranges"	"[0 0.2 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Keegan\hesh_stealth_lowerbody_a_col"
+	"$bumpmap" "models\Keegan\hesh_stealth_lowerbody_a_n"
+}

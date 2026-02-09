@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/CSM0_0054_Bob/CSM0_0054_Bob_Body_TX_BaseColor"
+	"$bumpmap" "models/CSM0_0054_Bob/CSM0_0054_Bob_Body_TX_Normal"
+    "$halflambert" "1"
+}

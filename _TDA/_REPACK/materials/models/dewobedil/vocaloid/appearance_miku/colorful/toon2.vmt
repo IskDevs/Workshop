@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/appearance_miku/colorful/toon"
+	"$translucent" "1"
+	"$nodecal" "1"
+}

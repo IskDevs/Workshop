@@ -1,0 +1,9 @@
+"Eyes"
+{
+	"$basetexture" "models/spongebob/patrick/shared_eyes"
+	"$iris" "models/spongebob/patrick/eyeball"
+	"$halflambert" 1
+
+	"$bumpmap" "model/spongebob/patrick/n"
+	"$phong" 1
+}

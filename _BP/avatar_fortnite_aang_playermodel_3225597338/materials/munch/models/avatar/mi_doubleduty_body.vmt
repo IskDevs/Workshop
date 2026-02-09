@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	$baseTexture "munch/models/avatar/T_DoubleDuty_Body_D"
+	$bumpmap "munch/models/avatar/T_DoubleDuty_Body_N"
+  	$phongexponenttexture "munch/models/pink/T_DoubleDuty_Body_E"
+                $color2 "[ 1 1 1]"
+	$surfaceprop Flesh
+	$lightwarptexture "munch/models/avatar/toon_N"
+	$alphatest 0
+
+
+	$phong 1
+                "$phongfresnelranges"    "[0.05 0.115 0.945]"
+	$phongalbedotint 1
+                $phongtint "[ 0.2 0.2 0.2]"
+	$phongexponent 10
+	$phongboost 0.0001
+	$phongalbedoboost 4
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 4
+	$rimlightmask 1
+
+
+	$rimmask 1
+}

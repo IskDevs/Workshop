@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cktheamazingfrog/player/babysonic/Movie_Baby_Sonic"
+	"$surfaceprop" "Flesh"
+}

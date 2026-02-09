@@ -1,0 +1,28 @@
+VertexLitGeneric
+{
+	$basetexture "models/kofxv\isla/hair"
+	$bumpmap "models/kofxv\isla/hair_n"
+                $color2 "[ 1 1 1]"
+	$surfaceprop Flesh
+
+	$lightwarptexture "models/kofxv\isla/toon_c"
+	$alphatest 0
+
+
+	$phong 1
+                "$phongfresnelranges"    "[1 1 0.945]"
+	$phongalbedotint 1
+	$phongexponent 1
+	$phongboost 0.2
+	$phongalbedoboost 4
+                $phongexponenttexture "models/kofxv\isla/hair_e"
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 1
+	$rimlightmask 1
+
+
+	$rimmask 1
+
+}

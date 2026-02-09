@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/griffboiscool/ginger"
+    	"$bumpmap" "models/griffboiscool/ginger_s"
+}

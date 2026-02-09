@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\Maximo\FFF\Ethel/body"
+	"$halflambert"			"1"
+	"$lightwarptexture"		"models\Maximo\FFF\Ethel/light"
+}

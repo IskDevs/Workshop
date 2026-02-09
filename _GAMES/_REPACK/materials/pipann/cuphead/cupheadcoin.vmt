@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "pipann/Cuphead/cupheadcoin_DIF"
+	$phongexponenttexture "pipann/Cuphead/cuphead_PHONG"
+	$envmapmask "pipann/Cuphead/cuphead_PHONG"
+	$bumpmap "pipann/Cuphead/cuphead_NRM"
+
+
+	 $envmap "env_cubemap"
+	 $envmaptint "[0.1 0.1 0.1]"
+	 $phong "1"
+	 $phongboost  "50" 
+	 $phongexponent "10"
+	 $phongfresnelranges "[0 0.5 1]"
+}

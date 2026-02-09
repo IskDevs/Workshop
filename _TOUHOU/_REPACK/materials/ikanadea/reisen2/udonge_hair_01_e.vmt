@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "IKanadeA/Reisen2/udonge_Hair_01_E"
+	//"$bumpmap" "IKanadeA/Reisen2/normal"
+	"$lightwarptexture" "IKanadeA/Reisen2/shader/cartoon_shader"
+	
+	"$phong" "1"
+	"$phongboost"	"2.0"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "IKanadeA/Reisen2/phong_exp"
+	"$phongfresnelranges"	"[0.1 0.1 5.0]"
+	//$phongexponent 5
+	$halflambert 1
+	$ambientocclusion 1
+
+	$nocull 1
+	$nodecal 1
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "4"
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/childe/face"
+                "$bumpamap"  "models/childe/face"
+                                   "$alphatest" "1"
+
+                                   "$halflambert" "1"
+

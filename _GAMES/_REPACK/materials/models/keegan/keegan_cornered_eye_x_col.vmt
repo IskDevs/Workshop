@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Keegan\keegan_cornered_eye_x_col"
+                "$basetexture" "models\Keegan\shared_eye_a_n"
+}

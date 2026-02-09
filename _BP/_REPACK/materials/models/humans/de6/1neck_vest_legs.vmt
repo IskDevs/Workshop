@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Humans\de6\1Neck_Vest_Legs"
+	"$halflambert" 1
+//	"$basealphaenvmapmask" 1
+//	"$envmaptint" "[0.3 0.3 0.3]"
+	"$nodecal" "1"
+	"$model" 1
+}

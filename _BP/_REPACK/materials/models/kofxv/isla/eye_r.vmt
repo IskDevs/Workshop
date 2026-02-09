@@ -1,0 +1,18 @@
+EyeRefract
+{
+$Iris "models/kofxv\isla/eye_r" 
+$AmbientOcclTexture "models/kofxv\isla/gambler_eye_ao" 
+$Envmap "models/kofxv\isla/eye-reflection-cubemap-" 
+$CorneaTexture "Engine/eye-cornea" 
+$EyeballRadius "1" 
+$AmbientOcclColor "[.4 .3 .27]" 
+$Dilation ".6" 
+$ParallaxStrength "0.25" 
+$CorneaBumpStrength "1" 
+$halflambert 1
+$nodecal 1
+$ambientocclusion 1
+$glossiness "2"
+
+$SphereTexkillCombo 0 
+}

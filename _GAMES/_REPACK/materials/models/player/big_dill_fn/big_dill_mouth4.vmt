@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/big_dill_fn/big_dill_mouth4"
+	"$vertexalpha" 1
+}

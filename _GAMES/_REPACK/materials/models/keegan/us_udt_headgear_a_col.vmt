@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Keegan\us_udt_headgear_a_col"
+	"$bumpmap" "models\Keegan\us_udt_headgear_a_n"
+}

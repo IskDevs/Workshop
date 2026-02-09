@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/dih/commissions/nikke_snowwhite/Snowwhite_hairB_C"
+	$bumpmap "models/dih/commissions/nikke_snowwhite/shared/normal"
+
+	$lightwarptexture "models/dih/commissions/nikke_snowwhite/shared/toon_head"
+}

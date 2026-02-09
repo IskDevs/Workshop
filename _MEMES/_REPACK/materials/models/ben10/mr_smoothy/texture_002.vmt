@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ben10/mr_smoothy/Texture_002"
+	"$halflambert" 1
+}

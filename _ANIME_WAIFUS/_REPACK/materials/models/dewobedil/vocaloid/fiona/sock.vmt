@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/fiona/Sock"
+	"$nodecal" 1
+	$ambientocclusion 0
+	"$phong" "1"
+	"$phongboost"	".5"
+	"$phongexponent" ".1"
+	"$phongwarptexture" "models/dewobedil/vocaloid/fiona/ah"
+	"$lightwarptexture" "models/dewobedil/vocaloid/fiona/toon_all"
+	"$phongfresnelranges"	"[1 .1 .1]"
+}

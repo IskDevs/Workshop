@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model\atago\azurlane\clancy\outline"
+	$no_draw 1
+}

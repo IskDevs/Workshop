@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/krypto/mutant_turtle/NT_EyesMouth_Color"
+	"$bumpmap" "models/krypto/mutant_turtle/NT_EyesMouth_Norm"
+}

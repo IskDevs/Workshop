@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Aileri/christmas/nightmarionne/glow"
+	"$selfillum" "1"
+}
