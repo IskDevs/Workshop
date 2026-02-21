@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Masha_Winter/masha_eyelashes"
+	"$alphatest" 1
+	"$halflambert" "1"
+	"$nocull" "1"
+}

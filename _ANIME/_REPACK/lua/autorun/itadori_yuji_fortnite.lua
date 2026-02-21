@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Itadori Yuji Fortnite", "models/jjk_falko/itadori_yuji_fortnite.mdl" );
+list.Set( "PlayerOptionsModel", "Itadori Yuji Fortnite", "models/jjk_falko/itadori_yuji_fortnite.mdl" );

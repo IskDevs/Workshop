@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "mad_models/robin/Cloak"
+	"$nocull" 1
+	"$nodecal" 1
+}

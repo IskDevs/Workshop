@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "broly/Body_Decal"
+	"$translucent" 1
+}

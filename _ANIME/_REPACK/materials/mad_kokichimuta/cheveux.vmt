@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "mad_KokichiMuta/Cheveux"
+	"$lightwarptexture" "mad_KokichiMuta/toon"
+	"$nocull" 1
+	"$nodecal" 1
+}

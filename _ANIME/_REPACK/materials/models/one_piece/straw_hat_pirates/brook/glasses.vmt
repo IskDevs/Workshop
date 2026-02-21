@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/one_piece/straw_hat_pirates/brook/glasses_c"
+	"$bumpmap" "models/one_piece/straw_hat_pirates/brook/glasses_n"
+}

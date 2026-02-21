@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Super Masha/Super Masha tex"
+	"$nocull" 1
+	"$halflambert" "1"
+}

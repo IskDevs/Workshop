@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Sneakyerz/DBFZ/Jiren/Body"
+ 	"$bumpmap" "models\Sneakyerz\phong"
+	"$halflambert"	"1"
+
+	"$color2""[.94 .94 .94]" //color correction
+	"$phongwarptexture" "models\Sneakyerz/hair_lightwarp2"
+	"$phongexponenttexture" "models\Sneakyerz/green"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phong" "1"
+	"$phongboost" "0.03"
+	"$phongfresnelranges""[5 7 8]"
+	"$lightwarptexture" "models\Sneakyerz\lightwarpToon"
+	"$ambientocclusion" "0"
+}

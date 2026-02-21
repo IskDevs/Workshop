@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sanji/sanji_flamme"
+	"$alphatest" 1
+"$lightwarptexture" "models\sanji\toon"
+}

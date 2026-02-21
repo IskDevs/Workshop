@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Bear_v1/bear_tex"
+	"$halflambert" "1"
+	"$nocull" "1"
+}

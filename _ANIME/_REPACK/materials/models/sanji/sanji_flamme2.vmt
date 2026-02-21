@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/sanji/sanji_flamme2"
+	"$alphatest" 1
+"$lightwarptexture" "models\sanji\toon"
+}

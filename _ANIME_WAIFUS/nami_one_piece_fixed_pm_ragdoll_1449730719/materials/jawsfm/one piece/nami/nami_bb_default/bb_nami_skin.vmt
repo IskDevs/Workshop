@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+	$basetexture "JawSFM/One Piece/Nami/Nami_BB_Default/BB_Nami_Skin_dif"
+	$bumpmap    "JawSFM/One Piece/Nami/Nami_BB_Default/BB_Nami_Skin_nrm"
+
+	$nocull 1
+
+	$phong 1
+	$phongexponent 10
+	$phongboost 3
+	$phongfresnelranges		"[0 0.5 1]"
+}

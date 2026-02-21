@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/stitch/stitch"
+	"$bumpmap" "models/stitch/stitch_normal"
+	"$halflambert" "1"
+
+	$phong 1
+	$phongexponent 50
+	$phongboost .3
+	$phongfresnelranges "[1 1.5 2]"
+	"$phongtint" "[.2 .2 .2]"
+
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost .3
+
+}
