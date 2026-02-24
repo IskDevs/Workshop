@@ -1,5 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/player/big_dill_fn/big_dill_body"
-	"$bumpmap" "models/player/big_dill_fn/big_dill_body_normal"
-}

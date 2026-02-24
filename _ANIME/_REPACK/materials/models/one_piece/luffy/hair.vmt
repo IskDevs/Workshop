@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/one_piece/luffy/Hair"
-	"$nocull" 1
-	"$nodecal" 1
-	"$alphatest" 1
-}

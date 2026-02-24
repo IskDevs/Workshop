@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/hoyoverse/mona/Head"
-	"$bumpmap" "models/hoyoverse/mona/bump_flat"
-                "$lightwarptexture" "models/hoyoverse/mona/basewarp"
-	"$nocull" 1
-	"$nodecal" 1
-}

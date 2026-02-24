@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/dewobedil/vocaloid/fiona/face"
-	"$nodecal" 1
-	"$translucent" 1
-	$ambientocclusion 0
-	"$lightwarptexture" "models/dewobedil/vocaloid/fiona/toon_head"
-}

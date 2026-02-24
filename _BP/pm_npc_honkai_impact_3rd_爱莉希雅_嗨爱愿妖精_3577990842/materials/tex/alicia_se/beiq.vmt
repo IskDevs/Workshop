@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture" "tex/Alicia_se/beiq"
+    $lightwarptexture  "tex/Alicia_se/lightwarp_anime_skin"
+	"$translucent" 1
+		"model" 1
+	"$alpha" 0
+	$phong 1
+
+
+	"$nocull" 1
+}

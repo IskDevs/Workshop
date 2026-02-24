@@ -1,6 +1,0 @@
-"Eyes"
-{
-	"$basetexture" "models/spongebob/wizard/shared_eyes"
-	"$iris" "models/spongebob/wizard/T_SpongeBob_Default_Eye_D"
-	"$halflambert" 1
-}

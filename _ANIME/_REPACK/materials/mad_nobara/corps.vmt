@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "mad_nobara/Corps"
-	"$nocull" 1
-	"$nodecal" 1
-}

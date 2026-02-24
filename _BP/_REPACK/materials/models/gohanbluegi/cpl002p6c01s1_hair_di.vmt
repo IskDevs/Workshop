@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models/gohanbluegi/Cpl002p6c01s1_hair_di"
+    "$bumpamap"  "models/gohanbluegi/Cpl002p6c01s1_hair_di"
+                                   "$halflambert" "1"
+
+    "$lightwarptexture" "models/gohanbluegi/toon"
+
+    "$phong" "1"
+    "$phongboost"    "24"
+    "$phongalbedotint" "1"
+    "$phongfresnelranges"    "[0 0 1]"
+
+    "$rimlight"               "1"
+    "$rimlightexponent"       "2"
+    "$rimlightboost"          "2"
+}

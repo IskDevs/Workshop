@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models\mcfly\wrs\Flame"
-
-	"$translucent" "1"
-	"$model" "1"
-
-}

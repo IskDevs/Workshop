@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models/gohanbluegi/sseyes2"
+    "$bumpamap"  "models/gohanbluegi/sseyes2"
+ "$alphatest" "1"                            
+
+   "$halflambert" "1"
+
+    "$basetexture" "models/gohanbluegi/sseyes2"
+
+                                   
+
+    "$lightwarptexture" "models/gohanbluegi/toon"
+
+    "$phong" "1"
+    "$phongboost"    "24"
+    "$phongalbedotint" "1"
+    "$phongfresnelranges"    "[0 0 1]"
+
+    "$rimlight"               "1"
+    "$rimlightexponent"       "2"
+    "$rimlightboost"          "2"
+}

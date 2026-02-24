@@ -1,8 +1,0 @@
-patch {
-   include "materials/models/debiddo/miss_hina/vertexlit_anime.vmt"
-   insert {
-      $basetexture "models/debiddo/miss_hina/cloth1"
-      $rimlightboost ".5"
-		$rimlightexponent "15"
-   }
-}

@@ -1,5 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "models/kerosenn/genshin_impact/npc/fatui/capitano/Avatar_Male_Sword_IlCapitano_Tex_Body_Diffuse"
-	$bumpmap "models/kerosenn/genshin_impact/npc/fatui/capitano/Avatar_Male_Sword_IlCapitano_Tex_Body_Normalmap"
-}

@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/dewobedil/guro/lolita_victoria/face_guro"
-	"$nodecal" 1
-	"$translucent" 1
-	"$lightwarptexture" "models/dewobedil/guro/lolita_victoria/toon_head"
-}

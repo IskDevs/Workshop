@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/closers_sylvi_lee/skirt"
+	"$bumpmap" "models\closers_sylvi_lee\normal"
+	//"$translucent" "1"
+	//"$model" "1"
+	//"$nodecal" "1"
+	//"$nocull" "1"
+	//"$alphatest" 1
+	//"$allowalphatocoverage" 1
+	//"$halflambert" "1"
+
+	//"$lightwarptexture" "models\closers_sylvi_lee\lightwarptexture"
+	"$lightwarptexture" "models\closers_sylvi_lee\toon_skin"
+
+	"$phong" "1"
+	"$phongboost"	"0.5"
+	"$phongexponent" ".1"
+	"$phongalbedotint" "1"
+	"$phongwarptexture" "models\closers_sylvi_lee\shader"
+	"$phongfresnelranges"	"[1 0.1 1]"
+
+	//"$rimlight"               "1"
+	//"$rimlightexponent"       "3"
+	//"$rimlightboost"          "4"
+}

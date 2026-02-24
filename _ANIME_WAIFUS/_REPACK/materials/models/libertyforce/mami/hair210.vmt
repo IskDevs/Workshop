@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/libertyforce/mami/hair210"
-	"$surfaceprop" "Flesh"
-	"$model" 1
-	"$nocull" 1
-	"$halflambert"	1
-}

@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\Appule\legs"
-
-	"$model" 1
-	"$nocull" 1
-	"$nodecal" 1
-}

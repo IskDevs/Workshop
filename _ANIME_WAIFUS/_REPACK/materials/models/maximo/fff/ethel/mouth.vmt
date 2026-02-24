@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\Maximo\FFF\Ethel/mouth"
-	"$halflambert"			"1"
-	"$translucent"			"1"
-	"$lightwarptexture"		"models\Maximo\FFF\Ethel/light"
-}

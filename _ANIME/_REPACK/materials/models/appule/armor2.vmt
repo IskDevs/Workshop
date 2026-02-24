@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\Appule\armor2"
-
-	"$model" 1
-	"$nocull" 1
-	"$nodecal" 1
-}

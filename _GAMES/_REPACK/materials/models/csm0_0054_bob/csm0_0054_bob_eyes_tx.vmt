@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-    "$basetexture" "models/CSM0_0054_Bob/CSM0_0054_Bob_Eyes_TX_BaseColor"
-	"$bumpmap" "models/CSM0_0054_Bob/CSM0_0054_Bob_Eyes_TX_Normal"
-    "$halflambert" "1"
-	
-	"$selfillum" "1"
-	"$selfillummask" "models/CSM0_0054_Bob/CSM0_0054_Bob_Eyes_TX_BaseColor"
-}

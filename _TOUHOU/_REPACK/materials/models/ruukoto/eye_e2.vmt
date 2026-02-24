@@ -1,9 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "models/ruukoto/eye_e2"
-
-	$selfillum 1
-	$selfillum_envmapmask_alpha 1
-	$selfillummask "models/ruukoto/Eye_Illum"
-	$selfillumtint "[0.50 0.50 0.50]"
-}

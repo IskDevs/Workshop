@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/one_piece/straw_hat_pirates/brook/hair_c"
-	"$alphatest" 1
-	"$nocull" 1
-}

@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/hoyoverse/skirk/Avatar_Girl_Undefined_Skirk_Tex_Body_Mat"
-	"$bumpmap" "models/hoyoverse/skirk/bump_flat"
-                "$lightwarptexture" "models/hoyoverse/skirk/basewarp"
-	"$nocull" 1
-	"$nodecal" 1
-}

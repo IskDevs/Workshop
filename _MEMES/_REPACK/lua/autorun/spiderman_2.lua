@@ -1,2 +1,0 @@
-player_manager.AddValidModel( "[K] Spiderman: Civil War", "models/kryptonite/spiderman_2/spiderman_2.mdl" ) 
-list.Set( "PlayerOptionsModel",  "[K] Spiderman: Civil War", "models/kryptonite/spiderman_2/spiderman_2.mdl" ) 

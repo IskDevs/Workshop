@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mortal_kombat_1/ghostface/T_Ghostface_Face_D"
+	"$bumpmap" "models/mortal_kombat_1/ghostface/T_Ghostface_Face_N"
+	"$phong" 1
+	"$phongboost" 1
+	"$phongexponent" 25
+	"$phongfresnelranges" "[0.1 0.5 0.9]"
+}

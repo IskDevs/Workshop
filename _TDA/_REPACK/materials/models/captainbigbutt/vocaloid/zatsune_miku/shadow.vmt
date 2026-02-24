@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\captainbigbutt\vocaloid\zatsune_miku\face"
-	"$bumpmap" "models\captainbigbutt\vocaloid\zatsune_miku\normal"
-
-	"$lightwarptexture" "models\captainbigbutt\vocaloid\zatsune_miku\facewarp"
-	"$translucent" "1"
-}

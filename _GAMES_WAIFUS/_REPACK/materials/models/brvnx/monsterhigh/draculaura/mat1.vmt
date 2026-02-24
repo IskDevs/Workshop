@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/brvnx/monsterhigh/draculaura/mat1"
-	"$nocull" 1
-	"$alphatest" 1
-}

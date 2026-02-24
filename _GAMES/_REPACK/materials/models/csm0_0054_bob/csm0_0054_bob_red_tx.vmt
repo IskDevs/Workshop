@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-    "$basetexture" "models/CSM0_0054_Bob/CSM0_0054_Bob_Red_TX_BaseColor"
-    "$halflambert" "1"
-	
-	"$selfillum" "1"
-	"$selfillummask" "models/CSM0_0054_Bob/CSM0_0054_Bob_Red_TX_BaseColor"
-}

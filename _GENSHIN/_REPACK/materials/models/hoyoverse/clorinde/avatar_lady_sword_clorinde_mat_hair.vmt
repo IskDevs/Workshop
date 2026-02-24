@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/hoyoverse/clorinde/Avatar_Lady_Sword_Clorinde_Mat_Hair"
-	"$bumpmap" "models/hoyoverse/clorinde/Avatar_Lady_Sword_Clorinde_Mat_Hair_N"
-                "$lightwarptexture" "models/hoyoverse/clorinde/basewarp"
-	"$nocull" 1
-	"$nodecal" 1
-}

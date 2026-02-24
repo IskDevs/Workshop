@@ -1,8 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "models/ruukoto/vesta1"
-
-	$selfillum 1
-	$selfillumfresnelminmaxexp "[0 0.6 1.1]"
-	$selfillummask "models/ruukoto/VestA1glow"
-}

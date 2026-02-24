@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/dbxv_vegito/potara2"
-	"$phong" "1"
-	"$phongboost" "2"
-	"$phongexponent" "5"									
-	"$phongfresnelranges"	"[.2 .6  1]"
-   	 "$halflambert" 1
-}

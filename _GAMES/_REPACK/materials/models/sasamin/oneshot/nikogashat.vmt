@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\sasamin\oneshot\nikoGasHat"
-
-	"$detail" "models\sasamin\oneshot\eyesGas"
-	"$detailscale" "1"        //scales the detail texture to same size as diffuse.
-	"$detailblendfactor" "1"  //lower values make the texture less visible. 0.0 - 1.0
-	"$detailblendmode" "5"    //6 also works.
-}

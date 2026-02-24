@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Appule/scouter1"
-	"$translucent" 1
-
-	"$model" 1
-	"$nocull" 1
-	"$nodecal" 1
-}

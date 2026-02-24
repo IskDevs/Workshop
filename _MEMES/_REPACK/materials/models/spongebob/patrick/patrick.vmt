@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/spongebob/patrick/T_Patrick_A"
-	"$bumpmap" "models/spongebob/patrick/T_Patrick_Normal"
-
-	"$phong" 1
-}

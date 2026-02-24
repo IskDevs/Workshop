@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\sasamin\oneshot\DecalsWithAlpha"
-
-	"$alphatest" "1"
-}

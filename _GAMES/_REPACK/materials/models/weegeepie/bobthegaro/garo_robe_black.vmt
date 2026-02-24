@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models\Weegeepie/BobTheGaro/garo_robe_black"
-	"$color2"				"[1.2 1.2 1.2]"
-
-	"$phong" "1"
-	"$PhongAlbedoTint"	"1"
-}
-

@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "model/Komeiji/honkai_impact/Mobius/Cloth"
+	"$bumpmap" "shared\normal"
+    "$lightwarptexture"       "shared/ToonShader"
+
+
+    "$nodecal"                "0"   // Turn off decals like Blood on that texture
+    "$nocull"                 "1"   // Disabling culling mode if there are any issues with transparency 
+
+    "$phong"                  "1"                                 // Turn it off if you're willing to use Cel-shading (0-1)
+    "$phongboost"              "24"                       // Strength of phong lighting (0-255)
+    "$phongfresnelranges"      "[0 0 1]"        // Area of Phong effect in X Y Z. ( 0 0 0 - 1 1 1 )
+        "$phongexponenttexture"   "shared/phong_exp"
+        "$phongalbedotint"        "1"
+
+    "$rimlight"               "1"                                 // Enable Rim-Lighting, Should be disable in some materials if some of the model's part looks awful filled with white lines.
+    "$rimlightexponent"       "1"                       // Size of Rim light. (0-255)
+    "$rimlightboost"          "1"                           // Strength of Rim lighting (0-255)
+
+    //"$translucent"             "1"                        // Enable Alpha on textures with alpha channel. Example as "Expression" texture in your model. Or expressions like 'Blush' will be just a floating pink object. Should use $nocull if there are clipping issues,
+    //"$alphatest"               "1"                          // Same as $Translucent but less buggy and cheap
+    //"$allowalphatocoverage"    "1"             // Best to use with $alphatest for better alpha effect but may not look good in some scenarios.
+}

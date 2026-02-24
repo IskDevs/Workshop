@@ -1,3 +1,0 @@
-player_manager.AddValidModel( "MultiVersus - Finn the Human", "models/kapuyas/multiversus/adventure_time/finn/doomguy/mv_at_finn_pm.mdl" )
-list.Set( "PlayerOptionsModel", "MultiVersus - Finn the Human", "models/kapuyas/multiversus/adventure_time/finn/doomguy/mv_at_finn_pm.mdl" )
-player_manager.AddValidHands( "MultiVersus - Finn the Human", "models/kapuyas/multiversus/adventure_time/finn/doomguy/mv_at_finn_c_hands.mdl", 0, "00000000" )

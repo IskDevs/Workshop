@@ -1,2 +1,0 @@
-player_manager.AddValidModel( "Clorinde (Shoeless)", "models/hoyoverse/Clorinde Shoeless.mdl" )
-player_manager.AddValidHands( "Clorinde (Shoeless)", "models/weapons/Clorinde_Arms_New.mdl", 0, "00000000" )

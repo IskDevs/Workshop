@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/627/Eyes"
+	"$bumpmap" "models/627/eye_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .12 .12 .12 ]"
+	"$normalmapalphaenvmapmask" "1"         
+}

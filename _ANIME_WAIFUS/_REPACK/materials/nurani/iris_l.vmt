@@ -1,9 +1,0 @@
-"eyes"
-{
-	"$baseTexture" "Nurani/eyeball"
-	"$iris" "Nurani/iris_l"
-	"$halflambert" 1
-	"$nodecal" "1"
-	"$nocull" 1
-
-}

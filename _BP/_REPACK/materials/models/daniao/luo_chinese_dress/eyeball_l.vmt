@@ -1,0 +1,15 @@
+"EyeRefract"
+{
+	"$iris" "models/daniao/luo_chinese_dress/eyeball"
+    "$ambientOcclTexture" "models/daniao/luo_chinese_dress/oa"
+	"$envmap" "models/daniao/luo_chinese_dress/black"
+    "$CorneaTexture" "models/daniao/luo_chinese_dress/cornea"
+	"$lightwarptexture" "models/daniao/luo_chinese_dress/toon_head"
+	"$halflambert" "1"
+	"$nodecal" "1"
+	"$parallaxStrength" "0"
+    "$dilation" "0.65"
+	"$corneaBumpStrength" "0"
+	"$raytraceSphere" "0"
+	"$sphereTexkillCombo" "0"
+}

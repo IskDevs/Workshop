@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture"			"models\playernoire\acce_a4"
-	"$halflambert"			"1"
-	"$lightwarptexture"		"models\playernoire\NeptuniaLW"
-}

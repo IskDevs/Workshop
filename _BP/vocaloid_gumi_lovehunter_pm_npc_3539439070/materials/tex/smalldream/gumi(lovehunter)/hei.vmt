@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "tex/Smalldream/Gumi(LoveHunter)/hei"
+	//"$translucent" 1
+	$bumpmap "dev/dev_normal"
+	$lightwarptexture "tex/Smalldream/Gumi(LoveHunter)/toon_skin"
+	$phong 1
+	$phongboost .02
+	$phongfresnelranges 1 .1 .1
+	"$halflambert" 1
+	"$nocull" 0
+	//$model "1"
+	//$nodecal "1"
+}

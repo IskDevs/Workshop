@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/closers_sylvi_2nd_promo/top"
+	"$bumpmap" "models\closers_sylvi_2nd_promo\normal"
+	"$nocull" "1"
+
+	//"$lightwarptexture" "models\closers_sylvi_2nd_promo\lightwarptexture"
+	"$lightwarptexture" "models\closers_sylvi_2nd_promo\toon_skin"
+
+	"$phong" "1"
+	"$phongboost"	"0.5"
+	"$phongexponent" ".1"
+	"$phongalbedotint" "1"
+	"$phongwarptexture" "models\closers_sylvi_2nd_promo\shader"
+	"$phongfresnelranges"	"[1 0.1 1]"
+
+	//"$rimlight"               "1"
+	//"$rimlightexponent"       "3"
+	//"$rimlightboost"          "4"
+}

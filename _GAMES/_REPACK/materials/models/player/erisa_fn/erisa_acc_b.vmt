@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/player/erisa_fn/erisa_acc"
-	"$bumpmap" "models/player/erisa_fn/erisa_acc_normal"
-	"$alphatest" 1
-	"$phong" "1"
-	"$phongexponent" "0"
-	"$phongboost" "0"
-}

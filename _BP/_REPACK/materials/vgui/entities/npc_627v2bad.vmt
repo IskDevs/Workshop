@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/npc_627v2bad"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

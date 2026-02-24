@@ -1,8 +1,0 @@
-"UnlitGeneric" 
-{ 
-	"$basetexture"		"vgui/entities/la_signora_friendly" 
-	"$vertexcolor" 		1 
-	"$vertexalpha" 		1 
-	"$nolod" 		1 
-} 
-

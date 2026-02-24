@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/daniao/luo_chinese_dress/face_mikuap"
+	"$nodecal" 1
+	"$translucent" 1
+	"$lightwarptexture" "models/daniao/luo_chinese_dress/toon_head"
+	"$phong" "1"
+}

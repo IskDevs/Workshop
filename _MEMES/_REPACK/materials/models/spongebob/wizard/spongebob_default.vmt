@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/spongebob/wizard/T_SpongeBob_Default_D"
-	"$bumpmap" "models/spongebob/wizard/T_SpongeBob_Default_N"
-
-	"$phong" 1
-//	"$halflambert" 1
-}

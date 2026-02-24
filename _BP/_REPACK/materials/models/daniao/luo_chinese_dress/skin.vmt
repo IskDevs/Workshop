@@ -1,0 +1,18 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+{
+	"$basetexture" "models/daniao/luo_chinese_dress/skin"
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongexponent" "1"
+	"$phongfresnelranges"	"[.1 1 1]"
+	"$bumpmap" "models/daniao/luo_chinese_dress/normal"
+	"$lightwarptexture" "models/daniao/luo_chinese_dress/toon_skin"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "3"
+}
+}

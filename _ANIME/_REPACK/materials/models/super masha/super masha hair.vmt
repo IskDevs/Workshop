@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/Super Masha/Super Masha hair"
-	"$alphatest" 1
-	"$halflambert" "1"
-	"$nocull" 1
-}

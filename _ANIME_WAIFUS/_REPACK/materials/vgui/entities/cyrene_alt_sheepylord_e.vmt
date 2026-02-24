@@ -1,6 +1,0 @@
-UnlitGeneric
-{
-	$basetexture "vgui/entities/cyrene_alt_sheepylord_E"
-	$vertexalpha 1
-	$vertexcolor 1
-}

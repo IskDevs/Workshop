@@ -1,6 +1,0 @@
-"Eyes"
-{
-	"$baseTexture"	"models/teeports/neptunia/chika/face"
-	"$iris"		"models/teeports/neptunia/chika/pupil_l_small"
-	"$halflambert"	"1"
-}
