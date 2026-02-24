@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/goldbrick/strongarm"
+	"$nocull" 1
+}

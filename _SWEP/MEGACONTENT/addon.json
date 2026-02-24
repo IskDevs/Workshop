@@ -1,9 +1,9 @@
 {
-  "title": "Nerf Gun Strongarm SWEP",
-  "type": "weapon",
+  "title": "Minecraft Wolf Pet",
+  "type": "entity",
   "tags": [
     "fun",
-    "roleplay"
+    "cartoon"
   ],
   "ignore": []
 }
