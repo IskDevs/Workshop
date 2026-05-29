@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\artel\sithuganda\eyes"
+	"$halflambert" "1"
+}

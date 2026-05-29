@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture" "models/carterinsanity/CarterEye"
+	"$iris" "models/carterinsanity/CarterPupil"
+	"$halflambert" 1
+}

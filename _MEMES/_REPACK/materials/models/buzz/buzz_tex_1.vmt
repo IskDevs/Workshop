@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/buzz/buzz_tex_1"
+	"$nocull" 1
+}

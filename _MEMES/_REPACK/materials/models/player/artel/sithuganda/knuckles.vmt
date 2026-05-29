@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\artel\sithuganda\knuckles"
+	"$halflambert" "1"
+	$nocull 1
+}

@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "mrpoopybutthole", "models/mrpoopybutthole/mrpoopybutthole_reference.mdl" )
+player_manager.AddValidHands( "mrpoopybutthole", "models/weapons/mrpoopybutthole_arms.mdl", 0, "00000000" )
