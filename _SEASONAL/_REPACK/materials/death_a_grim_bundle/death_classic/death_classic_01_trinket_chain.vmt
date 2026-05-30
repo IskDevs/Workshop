@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "death_a_grim_bundle/[]_shared/death_01_trinket_chain"
+	//"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[.4 .4 .4]"
+}

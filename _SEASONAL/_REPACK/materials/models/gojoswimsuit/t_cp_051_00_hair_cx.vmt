@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models/gojoswimsuit/T_CP_051_00_Hair_CX"
+    "$bumpamap"  "models/gojoswimsuit/T_CP_051_00_Hair_CX"
+       
+ "$alphatest" "1"                            
+
+   "$halflambert" "1"
+
+    "$basetexture" "models/gojoswimsuit/T_CP_051_00_Hair_CX"
+
+                                   
+
+    "$lightwarptexture" "models/gojoswimsuit/toon"
+
+    "$phong" "1"
+    "$phongboost"    "24"
+    "$phongalbedotint" "1"
+    "$phongfresnelranges"    "[0 0 1]"
+
+    "$rimlight"               "1"
+    "$rimlightexponent"       "2"
+    "$rimlightboost"          "2"
+}

@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/april/shadowwizardmoneygang/wizard"
+		"$blendtintbybasealpha" "1"
+ 	"$blendtintcoloroverbase" "0"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		1 0 0
+		}
+	}
+
+
+}

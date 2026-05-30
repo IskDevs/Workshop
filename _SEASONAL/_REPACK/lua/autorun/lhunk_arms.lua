@@ -1,0 +1,1 @@
+player_manager.AddValidHands( "Lady_HUNK", "models/weapons/c_arms_Lhunk.mdl", 0, "00000000" )

@@ -1,0 +1,32 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/scarlet_nexus_kasane/ks_mask_diff"
+	//"$bumpmap" "models/scarlet_nexus_kasane/ks_hood_norm"
+	"$surfaceprop" "Metal"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.70 0.70 0.70]"
+	"$envmapfresnel" "0.34"
+	"$envmaplightscale" "1"
+	"$envmapanisotropy" "1"
+	"$envmapanisotropyscale" "0.05"
+	"$envmaplightscaleminmax" "[0 1.25]"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/scarlet_nexus_kasane/ks_mask_spec_red"
+	"$phongfresnelranges" "[0.06 0.41 3]"
+	"$phongboost" "3"
+	
+	"$emissiveblendenabled" 	    "1"					// Enable EmissiveBlend. Like $selfillum 1	
+    "$emissiveblendstrength" 		"5"				// how strong the entire glow effect is.
+    "$emissiveblendtexture" 		"models/scarlet_nexus_kasane/null"	// This is the glowing texture's mask, like $selfillummask.  SHOULD BE VTF i8 FORMAT, NOT DXT5!!!
+    "$emissiveblendbasetexture" 	"models/scarlet_nexus_kasane/ks_mask_diff"	// this is the glowing texture.vtf
+    "$emissiveblendflowtexture" 	"models/scarlet_nexus_kasane/null"	 		// EmmisiveBlend can "flow" or move. But ours is static, so a white texture is used.
+    "$emissiveblendtint" 			" [ 9 9 0 ] "		// RGB glow intensity. Leave at 1 1 1. This can be used to change how strong each color should glow. 	
+	
+	//original phongboost value was 3 and original fresnel range was "[0.06 0.41 3]"
+
+	//"$ambientoccltexture" "models/timbleweebs/adaone/ada_chest_fen_ao"
+	"$ambientocclusion" "1"
+}

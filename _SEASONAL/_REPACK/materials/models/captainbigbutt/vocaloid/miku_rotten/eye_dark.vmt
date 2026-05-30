@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/captainbigbutt/vocaloid/miku_rotten/face.vmt"
+
+	"replace"
+	{
+	"$basetexture" "models\captainbigbutt\vocaloid\miku_rotten\white"
+	}
+	"insert"
+	{
+	"$color2" "{23 23 23}"
+	}
+}

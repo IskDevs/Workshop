@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vinrax/Jack_santa/texture002"
+	"$alphatest" 1
+	"$nocull" 1
+}
