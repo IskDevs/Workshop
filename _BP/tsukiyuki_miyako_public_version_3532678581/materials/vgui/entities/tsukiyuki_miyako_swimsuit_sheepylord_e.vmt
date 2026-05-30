@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "vgui/entities/tsukiyuki_miyako_swimsuit_sheepylord_E"
+	$vertexalpha 1
+	$vertexcolor 1
+}

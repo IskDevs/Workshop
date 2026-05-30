@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ump9pack/toon"
+	"$translucent" "1"
+	"$nodecal" "1"
+}

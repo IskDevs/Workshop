@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "vgui/entities/chesha_alt_sheepylord_E"
+	$vertexalpha 1
+	$vertexcolor 1
+}

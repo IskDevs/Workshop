@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+ "$basetexture" "models/ump45pack/EyeIris"
+ "$model" "1"
+ "$AlphaTest" "1"
+ "$lightwarptexture" "models/ump45pack/toon_head"
+ "$rimlight"               "1"
+ "$rimlightexponent"       "5"
+ "$rimlightboost"          "1"
+}

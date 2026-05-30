@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+ "$basetexture" "models/ump40pack/FaceBrow"
+ "$model" "1"
+ "$AlphaTest" "1"
+ "$lightwarptexture" "models/ump40pack/toon_head"
+ "$rimlight"               "1"
+ "$rimlightexponent"       "5"
+ "$rimlightboost"          "1"
+}

@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$baseTexture" "vgui/white"
-	"$lightwarptexture" "models\Atago_Bikini/_lightwarptexture"
-	"$halflambert" "1"
-}
-

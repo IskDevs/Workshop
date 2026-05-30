@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+    "$basetexture" "tex/kanami_qinxiang/body"
+    "$lightwarptexture" "tex/kanami_qinxiang/lightwarp_anime_skin"
+    
+    // Alpha测试 - 要么完全透明，要么完全不透明
+    "$alphatest" "1"
+    "$alphatestreference" "0.5"  // Alpha阈值，大于0.5显示，小于0.5透明
+    
+    "$nodecal" "1"
+    "$nocull" "1"
+    
+    // 深度优化
+    "$depthblend" "1"
+    "$depthbias" "-0.001"  // 修正为小数值
+    
+    // 光照效果
+    "$halflambert" "1"     // 动漫风格光照
+    
+    // 头发高光
+    "$phong" "1"
+    "$phongexponent" "10"
+    "$phongboost" "0.5"
+}

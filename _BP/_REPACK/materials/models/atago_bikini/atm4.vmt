@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\Atago_Bikini/atm4"
+	"$lightwarptexture" "models\Atago_Bikini/_lightwarptexture"
+	"$halflambert" "1"
+}
+

@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ump45pack/Clotch"
+  $bumpmap "models/ump45pack/Clotch_normal"
+ "$model" "1"
+   $nocull 1
+ "$lightwarptexture" "models/ump45pack/toon_body"
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 3
+
+
+}
