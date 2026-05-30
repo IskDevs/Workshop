@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "dannio/gordonramsay/head"
-	"$bumpmap" "dannio/gordonramsay/head_nm"
-
-	"$translucent" 1	
-
-}

@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/dewobedil/vocaloid/haku/bikini/Face_haku"
-	"$nodecal" 1
-	"$translucent" 1
-	"$lightwarptexture" "models/dewobedil/vocaloid/haku/bikini/toon_head"
-	"$phong" "1"
-}

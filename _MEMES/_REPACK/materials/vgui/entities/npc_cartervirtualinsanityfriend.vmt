@@ -1,7 +1,0 @@
-"UnlitGeneric" 
-{
-	"$basetexture" "VGUI/entities/npc_CarterVirtualInsanityFriend"
-	"$vertexcolor" 		1 
-	"$vertexalpha" 		1 
-	"$nolod" 		1 
-} 

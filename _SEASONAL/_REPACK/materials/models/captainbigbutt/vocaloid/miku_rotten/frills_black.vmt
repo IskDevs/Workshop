@@ -1,9 +1,0 @@
-"patch"
-{
-	"include" "materials/models/captainbigbutt/vocaloid/miku_rotten/frills.vmt"
-
-	"replace"
-	{
-	"$basetexture" "models\captainbigbutt\vocaloid\miku_rotten\dress_black"
-	}
-}

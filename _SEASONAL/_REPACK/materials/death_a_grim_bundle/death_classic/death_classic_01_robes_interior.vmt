@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "death_a_grim_bundle/death_classic/death_classic_01_robes"
-	"$bumpmap" "death_a_grim_bundle/[]_shared/death_01_robes_normal"
-	"$halflambert" 1
-  	  "$alphatest" 1
-  	  "$model" 1
-   	 "$nocull" 1
-}

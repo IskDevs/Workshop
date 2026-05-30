@@ -1,1 +1,0 @@
-player_manager.AddValidModel( "Tung Tung Tung Sahur", "models/gacommissions/tungtungtungsahur.mdl" )

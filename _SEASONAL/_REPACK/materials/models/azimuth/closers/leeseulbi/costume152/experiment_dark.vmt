@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\azimuth\closers\leeseulbi\costume152\Experiment_Dark"
-	"$lightwarpTexture" "models\azimuth\closers\leeseulbi\costume152\facewarp"
-	"$translucent" "1"
-}

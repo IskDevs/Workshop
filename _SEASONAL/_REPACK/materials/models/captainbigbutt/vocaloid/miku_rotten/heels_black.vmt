@@ -1,9 +1,0 @@
-"patch"
-{
-	"include" "materials/models/captainbigbutt/vocaloid/miku_rotten/heels.vmt"
-
-	"replace"
-	{
-	"$color2" "[0.1 0.09 0.1]"
-	}
-}
