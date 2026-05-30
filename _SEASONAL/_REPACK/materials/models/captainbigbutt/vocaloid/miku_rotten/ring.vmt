@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\vocaloid\miku_rotten\ring"
+	"$bumpmap" "models\captainbigbutt\vocaloid\miku_rotten\normal"
+
+	"$lightwarptexture" "models\captainbigbutt\vocaloid\miku_rotten\basewarp"
+
+	"$phong" "1"
+	"$phongboost"	"10"
+	"$phongexponent" "90"
+	"$phongfresnelranges"	"[.5 .5 3]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "50"
+	"$rimlightboost"          "0"
+
+	"$envmap" "models\captainbigbutt\vocaloid\miku_rotten\cubemap_gold"	
+	"$envmaptint" "[2.5 2.5 1.15]"
+}

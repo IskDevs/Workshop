@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\catcraze777\animal_crossing\jingle_acnh\mCap_D"
+	"$bumpmap" "models\catcraze777\animal_crossing\jingle_acnh\mCap_N"
+
+	"$nocull" "1"
+	"$phongexponenttexture" "models\catcraze777\animal_crossing\jingle_acnh\mTops_E"
+
+//	"$color2"	"[0.11765 0.11765 0.11765]"
+//	"$blendTintByBaseAlpha"	"1"
+
+	"$ambientocclusion"	"0"
+
+	"$phong" "1"
+	"$phongboost"	"9.9934895"
+
+	"$phongfresnelranges"	"[0.05 0.115 0.945]"
+
+	"$phongdisablehalflambert"	"1"
+
+	"$envmap" "models\cubemaps\cube_metal_grey"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapfresnel"	"1"
+
+	"$envmaptint"		"[.2 .2 .2]"
+}

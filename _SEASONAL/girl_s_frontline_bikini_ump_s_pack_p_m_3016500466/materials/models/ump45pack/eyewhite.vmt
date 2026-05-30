@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+ "$basetexture" "models/ump45pack/EyeWhite"
+ "$model" "1"
+ "$lightwarptexture" "models/ump45pack/toon_head"
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 3
+
+}

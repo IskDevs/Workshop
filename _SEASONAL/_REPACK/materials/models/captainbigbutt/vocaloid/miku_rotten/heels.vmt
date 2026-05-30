@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/captainbigbutt/vocaloid/miku_rotten/arms.vmt"
+
+	"insert"
+	{
+	"$nocull" "1"
+	}
+}

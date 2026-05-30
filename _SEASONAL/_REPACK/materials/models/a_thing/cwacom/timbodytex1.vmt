@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/a_thing/cwacom/timbodytex1"
+	"$alphatest" 1
+}

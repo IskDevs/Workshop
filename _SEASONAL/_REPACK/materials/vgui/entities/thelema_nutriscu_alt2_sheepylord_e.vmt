@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "vgui/entities/thelema_nutriscu_alt2_sheepylord_E"
+	$vertexalpha 1
+	$vertexcolor 1
+}

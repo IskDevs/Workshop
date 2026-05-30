@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\azimuth\closers\leeseulbi\costume152\EYE"
+	"$lightwarpTexture" "models\azimuth\closers\leeseulbi\costume152\basewarp"
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+ "$basetexture" "models/ump40pack/rearhair"
+ "$model" "1"
+ "$lightwarptexture" "models/ump40pack/toon_head"
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 1
+
+}

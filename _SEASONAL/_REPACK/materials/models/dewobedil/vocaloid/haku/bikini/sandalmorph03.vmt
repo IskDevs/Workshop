@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/haku/bikini/SandalMorph03"
+	"$nocull" 1
+	"$nodecal" 1
+	"$lightwarptexture" "models/dewobedil/vocaloid/haku/bikini/toon_all"
+}

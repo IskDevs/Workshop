@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model\azuma\luvvy/outline"
+	"$ambientocclusion" "0"
+}

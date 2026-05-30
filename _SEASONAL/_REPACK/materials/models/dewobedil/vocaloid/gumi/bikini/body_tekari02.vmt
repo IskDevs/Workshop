@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/gumi/bikini/body_tekari02"
+	"$nodecal" 1
+	"$translucent" 1
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongexponent" "15"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[1 .1 .1]"
+	"$lightwarptexture" "models/dewobedil/vocaloid/gumi/bikini/toon_skin"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "1"
+}

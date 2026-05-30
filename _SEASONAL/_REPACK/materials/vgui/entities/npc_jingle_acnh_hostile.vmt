@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/npc_jingle_acnh_hostile"
+	"$translucent" 1
+}

@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/captainbigbutt/vocaloid/miku_rotten/ring.vmt"
+
+	"replace"
+	{
+	"$basetexture" "models\captainbigbutt\vocaloid\miku_rotten\ring_silver"
+	"$envmap" "models\captainbigbutt\vocaloid\miku_rotten\cubemap_gray"	
+	"$envmaptint" "8"
+	}
+}
+
+

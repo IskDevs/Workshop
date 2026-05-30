@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "adps1pms/output_2_tex0"
+	"$halflambert" 1
+	"$nocull" 1
+}

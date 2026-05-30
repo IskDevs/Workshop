@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/megurine_luka/bikini/toon02"
+	"$nodecal" 1
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "2"
+	"$halflambert" 1
+	"$phong" "1"
+	"$lightwarptexture" "models/dewobedil/vocaloid/megurine_luka/bikini/toon_all"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "4"
+}
