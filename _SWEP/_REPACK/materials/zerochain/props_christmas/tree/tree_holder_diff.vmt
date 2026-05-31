@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_christmas/tree/tree_holder_diff"
+	
+	"$bumpMap"				"zerochain/props_christmas/tree/tree_holder_nrm"
+	$normalmapalphaenvmapmask "1"
+	
+	"$surfaceprop" "wood"
+	"$model" 1
+	"$halflambert" 1
+
+	$nodecal "1"
+
+	$phong 1
+	$phongexponent 7
+	$phongfresnelranges "[5 2 6]"
+	$phongboost 1
+}

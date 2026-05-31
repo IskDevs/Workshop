@@ -1,0 +1,45 @@
+"UnlitGeneric"
+{
+	"$color2"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_christmas/tree/tree_light"
+
+	$nodecal "1"
+
+	Proxies
+    {
+	
+		TextureScroll
+		{
+			"texturescrollvar" "$baseTexturetransform"
+			"texturescrollrate" 	1
+			"texturescrollangle" 	0
+		}
+		
+		Sine
+		{
+			sineperiod	1
+			sinemin		1
+			sinemax		25
+			timeoffset	0
+			resultvar	"$color2[0]"
+		}
+		
+		Sine
+		{
+			sineperiod	1
+			sinemin		1
+			sinemax		25
+			timeoffset	0
+			resultvar	"$color2[1]"
+		}
+		
+		Sine
+		{
+			sineperiod	1
+			sinemin		1
+			sinemax		25
+			timeoffset	0
+			resultvar	"$color2[2]"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_christmas/tree/ornament_string_diff"
+
+	"$bumpMap"				"zerochain/props_christmas/tree/ornament_string_nrm"
+	$normalmapalphaenvmapmask "1"
+	
+	"$surfaceprop" "wood"
+	"$model" 1
+	"$halflambert" 1
+
+	$nodecal "1"
+
+	$phong 1
+	$phongexponent 1
+	$phongfresnelranges "[1 1 1]"
+	$phongboost 0.25
+}
