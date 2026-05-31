@@ -108,5 +108,11 @@ net.Receive("DragonVapeIgnite", function(len, ply)
 	if !ent:IsSolid() then return end
 	if ent:GetPos():Distance(ply:GetPos()) > 500 then return end
 	--I hope there's no exploits
-	ent:Ignite(0,0)
+	ent:Ignite(10,0)
+end)
+
+hook.Add("EntityTakeDamage", "DragonVape_NoBurnDamage", function(ent, dmginfo)
+	if dmginfo:IsDamageType(DMG_BURN) or dmginfo:IsDamageType(DMG_DIRECT) then
+		dmginfo:SetDamage(0)
+	end
 end)
