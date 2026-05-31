@@ -108,5 +108,5 @@ net.Receive("DragonVapeIgnite", function(len, ply)
 	if !ent:IsSolid() then return end
 	if ent:GetPos():Distance(ply:GetPos()) > 500 then return end
 	--I hope there's no exploits
-	ent:Ignite(10,0)
+	ent:Ignite(0,0)
 end)
