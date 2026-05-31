@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "akulla/weaponskins/animated_4"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.1
+			"texturescrollangle" 130
+		}
+	}
+}

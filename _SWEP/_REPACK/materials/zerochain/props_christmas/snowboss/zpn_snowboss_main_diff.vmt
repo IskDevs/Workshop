@@ -1,0 +1,78 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_christmas/snowboss/zpn_snowboss_main_diff"
+	"$bumpMap"				"zerochain/props_christmas/snowboss/zpn_snowboss_main_nrm"
+
+	"$surfaceprop" "snow"
+	"$model" 1
+	$halflambert 1
+	
+	$phong 1
+	$phongexponent 1
+	$phongfresnelranges "[1 4 6]"
+	$phongboost 1
+	
+	$envmap env_cubemap
+	"$normalmapalphaenvmapmask" "1"	
+	$envmaptint "[1 1 1]"
+	$envmapfresnel 1
+	$envmapFresnelMinMaxExp "[1 2 3]"
+	
+	$rimlight               1
+	$rimlightexponent      15
+	$rimlightboost         0.1
+	$rimmask 1	
+
+
+	// Emissive Scroll Pass
+	"$emissiveBlendEnabled"     "1"
+	"$emissiveBlendTexture" "zerochain/props_christmas/snowboss/null"
+	"$emissiveBlendBaseTexture" "zerochain/props_christmas/snowboss/zpn_snowboss_main_em"
+	"$emissiveBlendFlowTexture" "zerochain/props_christmas/snowboss/null"
+	"$emissiveBlendTint"        "[0.3 0.3 0.3]"
+	"$emissiveBlendStrength" "1"
+	"$emissiveBlendScrollVector" "[0.1 0.12]"
+
+	"$time" "0"
+	"Proxies"
+	{
+		"CurrentTime"
+		{
+			"resultVar" "$time"
+		}
+		
+		"Sine"
+		{
+            "sineperiod" 5
+            "sinemin" 0.2
+			"sinemax" 0.6
+			"timeoffset" 0
+            "resultVar" "$emissiveBlendTint[0]"
+		}
+		
+		"Sine"
+		{
+            "sineperiod" 5
+            "sinemin" 0.2
+			"sinemax" 0.6
+			"timeoffset" 0
+            "resultVar" "$emissiveBlendTint[1]"
+		}
+		
+		"Sine"
+		{
+            "sineperiod" 5
+            "sinemin" 0.2
+			"sinemax" 0.6
+			"timeoffset" 0
+            "resultVar" "$emissiveBlendTint[2]"
+		}		
+	}
+
+	$detail detail\noise_detail_01 // e.g. for brickwork, concrete...
+	$detailscale 20
+	$detailblendfactor 0.3
+	$detailblendmode 0
+	
+}

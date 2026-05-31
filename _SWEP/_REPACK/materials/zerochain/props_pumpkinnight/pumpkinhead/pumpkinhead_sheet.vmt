@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_pumpkinnight/pumpkinhead/pumpkinhead_sheet"
+	
+	"$halflambert" 1
+	"$bumpmap" "zerochain/props_pumpkinnight/pumpkinhead/pumpkinhead_sheet_nrm"
+
+	// Original shader: VertexLitTexture
+	"$phong" "1"
+	"$phongboost" "4"
+	"$phongexponent" "10"
+	"$phongexponenttexture" "zerochain/props_pumpkinnight/pumpkinhead/pumpkinhead_sheet_exp"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.01 .4 1]"
+}

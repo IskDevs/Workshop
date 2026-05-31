@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "textures/minecraft/minecraft_fox_2"
+	"$surfaceprop" "Flesh"
+}
