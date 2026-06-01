@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/wyldkat/PoppyPlaytime/catnap/CatNapFur"
+	"$bumpmap" "models/wyldkat/PoppyPlaytime/catnap/CatNapFur_n"
+	"$translucent" 1
+
+}

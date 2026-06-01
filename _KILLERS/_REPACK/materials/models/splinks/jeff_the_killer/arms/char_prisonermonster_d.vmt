@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/splinks/Jeff_the_Killer/Jeff_Body"
+	"$bumpmap" "models/splinks/Jeff_the_Killer/Jeff_Body_NRM"
+	"$nocull" 1
+	"$halflambert" 1
+$phong 1
+$phongboost "1.4"
+$phongexponent 7
+$phongtint "[.85 .85 1]"
+	"$phongfresnelranges"	"[0.05 0.3 2]"
+
+$diffuseexp "1"
+$lightwarptexture "models/splinks/Jeff_the_Killer/wrp"
+
+
+	"$detail"					"models/splinks/Jeff_the_Killer/arms/skin.vtf"
+	"$detailscale" "50"
+	"$detailblendfactor" "1.2"
+	"$detailblendmode" "0"
+}

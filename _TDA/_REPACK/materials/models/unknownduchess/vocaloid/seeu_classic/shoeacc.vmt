@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/unknownduchess/vocaloid/seeu_classic/shoeacc"
+	"$bumpmap" "models\unknownduchess\vocaloid\seeu_classic\normal"
+	"$nocull" "1"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\unknownduchess\vocaloid\seeu_classic\facewarp"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\unknownduchess\vocaloid\seeu_classic\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
+

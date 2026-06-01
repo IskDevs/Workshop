@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\vocaloid\rin\face"
+	"$bumpmap" "models\captainbigbutt\vocaloid\rin\normal"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\captainbigbutt\vocaloid\rin\lightwarp"
+	"$ambientocclusion" "0"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/alejenus/fnafvr/bonnie/bonnietex_eye"
+	"$bumpmap" "models/alejenus/fnafvr/bonnie/bonnienormal_eyes"
+	"$surfaceprop" "Metal"
+}

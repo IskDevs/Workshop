@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/alejenus/fnafvr/bunny/bunnytex_glow"
+	"$surfaceprop" "Flesh"
+	"$Selfillum" "1"
+}

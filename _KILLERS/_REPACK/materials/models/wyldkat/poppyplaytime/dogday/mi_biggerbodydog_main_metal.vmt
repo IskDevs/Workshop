@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\wyldkat\PoppyPlaytime\dogday\body_d"
+    "$bumpmap" "models\wyldkat\PoppyPlaytime\dogday\body_n"
+    "$nodecal" "1"
+    "$phongexponenttexture" "models\wyldkat\PoppyPlaytime\dogday\body_s"
+    "$phongalbedotint"    "1"
+
+    $color2 "[0.4 0.4 0.4]"
+
+    "$translucent"        "1"
+
+    "$phong" "1"
+    "$phongboost"    "20"
+
+    "$phongfresnelranges"    "[0.87 0.9 1]"
+
+    "$ambientocclusion"    "0"
+$nocull 1
+}

@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\wyldkat\PoppyPlaytime\huggyproject\fur_d"
+    "$bumpmap" "models\wyldkat\PoppyPlaytime\huggyproject\fur_n"
+    "$nodecal" "1"
+    "$phong" "1"
+    "$phongboost"    "0"
+    $translucent "1"
+    "$phongfresnelranges"    "[0.1 0.23 0.945]"
+    "$color2" "[3 3 3]"
+    "$phongdisablehalflambert"    "1"
+
+    "$envmap" "models\cubemaps\fallout4cube_dithered_grey"
+    "$normalmapalphaenvmapmask"        "1"
+    "$envmapfresnel"    "1"
+
+    "$envmaptint"        0
+$nocull 1
+}

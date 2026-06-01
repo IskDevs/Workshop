@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rueven/n64/shared/Soles"
+	"$bumpmap" "models/rueven/n64/shared/MarioGenericBump"
+
+}

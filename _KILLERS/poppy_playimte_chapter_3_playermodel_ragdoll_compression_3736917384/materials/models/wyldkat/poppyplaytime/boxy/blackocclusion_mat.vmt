@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\wyldkat\PoppyPlaytime\shared\white"
+    "$bumpmap" "models\wyldkat\PoppyPlaytime\shared_normal"
+    "$nodecal" "1"
+    "$phong" "1"
+    "$phongboost"    "0"
+    "$color2" "[0 0 0]"
+$nocull 1
+}

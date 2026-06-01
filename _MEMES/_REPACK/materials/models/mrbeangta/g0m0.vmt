@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mrbeangta/g0m0"
+	"$nocull" 1
+}

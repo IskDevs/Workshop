@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/appearance_miku/colorful/shoes"
+	"$nodecal" "1"
+	$ambientocclusion 0
+	"$nocull" 1
+	"$translucent" 0
+	$phong "1"
+	$phongboost "1"
+	$phongexponent ".1"
+	$phongfresnelranges "[1 .1 .1]"
+	"$phongwarptexture" "models/dewobedil/vocaloid/appearance_miku/colorful/A2"
+	"$lightwarptexture" "models/dewobedil/vocaloid/appearance_miku/colorful/toon_clothes"
+}

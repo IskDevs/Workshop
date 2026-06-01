@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/carterinsanity/CarterMouth"
+	"$alphatest" 1
+	"$nocull" 1
+}

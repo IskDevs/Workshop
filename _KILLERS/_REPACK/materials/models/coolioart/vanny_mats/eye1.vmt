@@ -1,0 +1,35 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\CoolioArt\Vanny_mats\Eye1_Diffuse"
+
+
+   	$surfaceprop metal
+
+	"$phong"    		"1"
+	"$phongwarptexture"	"dev\null"
+	"$invertphongmask"	"1"
+	"$phongboost"		"2"
+	"$phongexponent"		"8"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint"		"0.0"
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture	"dev\null"
+	$emissiveBlendBaseTexture	"models\CoolioArt\Vanny_mats\Eye1_Emission"
+
+	$emissiveBlendFlowTexture	"dev\null"
+	$emissiveBlendStrength 1
+	$emissiveBlendTint "[1 1 1]"
+	$emissiveBlendScrollVector "[0.01 0.01]"
+
+	"$basemapluminancephongmask" "1"
+	"$normalmapalphaenvmapmask"  "1"
+	"$model" "0"
+	"$diffuseexp" "1.5"
+}
+
+
+///VMT made by TF541Productions
+
+
+

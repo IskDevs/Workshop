@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\whynotboi\oblituscasa\shared\white"
+    "$bumpmap" "models\whynotboi\oblituscasa\shared_normal"
+    "$nodecal" "1"
+    "$phong" "0"
+    "$color2" "[0 0 0]"
+
+    "$envmap" "models\cubemaps\fallout4cube_dithered_grey"
+    "$normalmapalphaenvmapmask"        "1"
+    "$envmapfresnel"    "1"
+
+    "$envmaptint"        0
+$nocull 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/appearance_miku/colorful/blush_1"
+	"$nodecal" "1"
+	$ambientocclusion 0
+	"$lightwarptexture" "models/dewobedil/vocaloid/appearance_miku/colorful/toon_head"
+	"$phong" "1"
+	"$translucent" 1
+}

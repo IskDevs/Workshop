@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\CoolioArt\Vanny_mats\Bowtie_Diffuse"
+	"$color2" "[0.4 0.4 0.4]"
+
+   	$surfaceprop metal
+
+	"$phong"    		"1"
+	"$phongwarptexture"	"dev\null"
+	"$invertphongmask"	"1"
+	"$phongboost"		"12"
+	"$phongexponent"		"20"
+	"$phongtint" "{32 119 241}"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint"		"0.0"
+
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent" "100"
+
+	"$basemapluminancephongmask" "1"
+	"$normalmapalphaenvmapmask"  "1"
+	"$model" "0"
+	"$diffuseexp" "1.5"
+}
+
+
+///VMT made by TF541Productions
+
+
+

@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\wyldkat\PoppyPlaytime\catnap\eye_d"
+    "$bumpmap" "models\wyldkat\PoppyPlaytime\shared_normal"
+    "$nodecal" "1"
+    "$phong" "1"
+	$detail models\wyldkat\PoppyPlaytime\catnap\eye_d
+    $detailscale 1 
+    $detailblendfactor 1
+    $detailblendmode 5     
+    "$phongboost"    "0"
+
+    "$phongfresnelranges"    "[0.1 0.23 0.945]"
+
+    "$phongdisablehalflambert"    "1"
+
+    "$envmap" "models\cubemaps\fallout4cube_dithered_grey"
+    "$normalmapalphaenvmapmask"        "1"
+    "$envmapfresnel"    "1"
+
+    "$envmaptint"        0
+$nocull 1
+}

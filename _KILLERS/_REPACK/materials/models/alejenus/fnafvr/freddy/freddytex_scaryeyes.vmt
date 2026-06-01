@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/alejenus/fnafvr/freddy/freddytex_scaryeyes"
+	"$surfaceprop" "Metal"
+	"$selfillum" "1"
+}

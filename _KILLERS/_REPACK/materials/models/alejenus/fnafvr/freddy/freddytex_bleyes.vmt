@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/alejenus/fnafvr/freddy/freddytex_bleyes"
+	"$bumpmap" "models/alejenus/fnafvr/freddy/freddynormal_eyes"
+	"$surfaceprop" "Concrete"
+}

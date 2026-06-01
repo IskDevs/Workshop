@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$basetexture "models/echo/xenomorph/xenomorph_d"
+$bumpmap "models/echo/xenomorph/isonormal"
+$surfaceprop Alienflesh
+
+$envmap "env_cubemap"
+$envmaptint "[0.025 0.025 0.025]"
+
+$phong 1
+$phongfresnelranges "[1 1 1]"
+$halflambert 1
+$phongexponent 10
+$phongboost 5
+}

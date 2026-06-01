@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gacommissions/tungtungtungsahur/material"
+	"$halflambert" 1
+	// model ported by Goonya | модель портировал Goonya: https://steamcommunity.com/id/GAnimator/
+}

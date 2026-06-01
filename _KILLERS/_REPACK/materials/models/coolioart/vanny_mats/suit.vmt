@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\CoolioArt\Vanny_mats\Suit_Diffuse"
+	"$bumpmap" "models\CoolioArt\Vanny_mats\Suit_Norm"
+
+   	$surfaceprop metal
+
+	"$phong"    		"0"
+	"$phongwarptexture"	"dev\null"
+	"$invertphongmask"	"1"
+	"$phongboost"		"0.3"
+	"$phongexponent"		"0"
+	"$phongexponenttexture" "models\CoolioArt\Vanny_mats\Suit_Roughness"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint"		"0.0"
+
+	"$nocull" "1"
+
+	"$basemapluminancephongmask" "1"
+	"$normalmapalphaenvmapmask"  "1"
+	"$model" "0"
+	"$diffuseexp" "1.5"
+}
+
+
+///VMT made by TF541Productions
+
+
+

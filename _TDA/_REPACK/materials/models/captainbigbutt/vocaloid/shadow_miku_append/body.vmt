@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\vocaloid\shadow_miku_append\body"
+	"$bumpmap" "models\captainbigbutt\vocaloid\shadow_miku_append\normal"
+	"$nodecal" "1"
+
+	"$cloakpassenabled" "1"
+	"$cloakfactor" "0.95"
+	"$cloakcolortint" "[0 0 0]"
+	"$refractamount" "0"
+}

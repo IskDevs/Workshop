@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rueven/n64/shared/CowboyScarf"
+	"$bumpmap" "models/rueven/n64/shared/MarioGenericBump"
+	"$phong" "0"
+}

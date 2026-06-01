@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\glamrock\secretofthemimic\shared\Black"
+    "$bumpmap" "models\Whynotboi\secretofthemimic\shared\shared_normal"
+    "$nodecal" "1"
+    "$phong" "1"
+    "$phongboost"    "2.5"
+    "$phongfresnelranges"    "[0.1 0.23 0.945]"
+
+    "$phongdisablehalflambert"    "1"
+
+    "$envmap" "models\cubemaps\fallout4cube_dithered_grey"
+    "$normalmapalphaenvmapmask"        "1"
+    "$envmapfresnel"    "1"
+
+    "$envmaptint"        0
+$nocull 1
+}

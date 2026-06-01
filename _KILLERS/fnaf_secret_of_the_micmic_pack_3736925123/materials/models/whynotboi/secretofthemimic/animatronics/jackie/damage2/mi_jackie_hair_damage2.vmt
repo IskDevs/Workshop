@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\whynotboi\secretofthemimic\animatronics\jackie\damage2\hair_d"
+    "$bumpmap" "models\whynotboi\secretofthemimic\animatronics\jackie\damage2\hair_n"
+
+    "$nodecal" "1"
+
+    "$phong" "1"
+
+    "$phongexponenttexture" "models\whynotboi\secretofthemimic\animatronics\jackie\damage2\hair_s"
+
+    "$phongboost"    "0.2"
+    
+    "$phongfresnelranges"	"[0.5 1 1]"
+
+    "$phongdisablehalflambert"    "1"
+
+    "$nocull" "1"
+}

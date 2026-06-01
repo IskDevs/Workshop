@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+    "$basetexture" "models\whynotboi\secretofthemimic\shared\invis"
+    "$bumpmap" "models\whynotboi\secretofthemimic\shared\shared_normal"
+
+    "$translucent" "1"
+    
+    "$nodecal" "1"
+}

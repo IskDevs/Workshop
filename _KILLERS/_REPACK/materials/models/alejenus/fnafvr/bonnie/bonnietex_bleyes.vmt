@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/alejenus/fnafvr/bonnie/bonnietex_bleyes"
+	"$bumpmap" "models/alejenus/fnafvr/bonnie/bonnienormal_eyes"
+	"$surfaceprop" "Metal"
+}

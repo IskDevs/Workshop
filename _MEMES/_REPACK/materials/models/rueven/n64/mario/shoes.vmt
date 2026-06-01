@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rueven/n64/shared/Shoes"
+	"$bumpmap" "models/rueven/n64/shared/MarioGenericBump"
+	"$phong" "1"
+   	"$phongboost" "0.1"
+   	"$phongexponent" "15"
+   	"$phongfresnelranges" "[0.1 0.23 0.945]"
+   	"$phongtint"	"[80 30 13]"
+    	"$phongdisablehalflambert" "1"
+
+}

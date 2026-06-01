@@ -1,0 +1,32 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\whynotboi\secretofthemimic\animatronics\dollie\molten\dress_d"
+    "$bumpmap" "models\whynotboi\secretofthemimic\animatronics\dollie\molten\dress_n"
+
+    "$alphatest"    "1"
+
+    "$nodecal" "1"
+
+    "$phong" "1"
+    "$phongalbedotint"	"1"
+
+    "$phongexponenttexture" "models\whynotboi\secretofthemimic\animatronics\dollie\molten\dress_s"
+
+    "$phongboost"    "1"
+    
+    "$phongalbedoboost"    "50"
+
+    "$phongfresnelranges"	"[0.5 1 1]"
+
+    "$phongdisablehalflambert"    "1"
+
+    "$nocull" "1"
+      
+    "$emissiveblendenabled"   "1"
+    "$emissiveblendtexture"   "models\whynotboi\secretofthemimic\shared\white"
+    "$emissiveblendbasetexture"    "models\whynotboi\secretofthemimic\animatronics\dollie\molten\dress_e"
+    "$emissiveblendflowtexture"   "models\whynotboi\secretofthemimic\shared\white"
+    "$emissiveblendstrength"  "1"
+    "$emissiveblendtint"  "[1 1 1]"
+    "$emissiveblendscrollvector"  "[0 0]" 
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/alejenus/fnafvr/freddy/freddytex_suit"
+	"$bumpmap" "models/alejenus/fnafvr/freddy/freddynormal_suit"
+	"$surfaceprop" "Metal"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "dannio/gordonramsay/head"
+	"$bumpmap" "dannio/gordonramsay/bumpmap"
+	"$halflambert" 1
+                "$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.0 0.1 1]"
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent" "1"
+	"$rimmask" "1"
+	"$halflambert" "1"		
+	"$blendtintbybasealpha" 1
+
+}

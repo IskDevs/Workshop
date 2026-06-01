@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\dravenjv01\fnafhw\nightmarefredb\NM_Solid_Diffuse"
+	"$bumpmap" "models\dravenjv01\fnafhw\nightmarefredb\Fredbear_Normal"
+	"$phongexponent" "20"
+	"$phongboost"    "30"
+	"$phongfresnelranges"    "[0.05 0.5 1]"
+	"$phong" "1"
+	"$AmbientOcclusion" "1"
+}

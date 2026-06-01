@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "models/rueven/n64/mario/MetalBase"
+	"$bumpmap" "models/rueven/n64/shared/MarioGenericBump"
+	$color2 "[0.0 0.0 0.0]"
+	$additive 2
+	"$phong" "1"
+   	"$phongboost" "1"
+   	"$phongexponent" "10"
+   	"$phongfresnelranges" "[0.1 0.23 0.945]"
+   	"$phongtint"	"[20 20 20]"
+}

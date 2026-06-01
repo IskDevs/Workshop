@@ -1,0 +1,32 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "white"
+	"$color2" "{59 60 64}"
+	"$color" "[0.5 0.5 0.5]"
+	"$bumpmap" "models\CoolioArt\Vanny_mats\Felt_Norm"
+
+   	$surfaceprop metal
+
+	"$phong"    		"1"
+	"$phongwarptexture"	"dev\null"
+	"$invertphongmask"	"1"
+	"$phongboost"		"0.01"
+	"$phongexponent"		"3"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint"		"0.0"
+
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent" "100"
+
+	"$basemapluminancephongmask" "1"
+	"$normalmapalphaenvmapmask"  "1"
+	"$model" "0"
+	"$diffuseexp" "1.5"
+}
+
+
+///VMT made by TF541Productions
+
+
+

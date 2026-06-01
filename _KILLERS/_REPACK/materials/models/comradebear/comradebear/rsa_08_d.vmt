@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/comradebear/comradebear/RSA_08_D"
+	"$phongexponenttexture"  "models/comradebear/comradebear/RSA_08_S"
+	"$bumpmap" "models/comradebear/comradebear/RSA_08_N"
+
+	"$halflambert" "1"	
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.25"
+	"$phongfresnelranges"	"[ .3 1.2 8]"
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "8"				
+	"$rimlightboost" "1.5"
+	"$rimmask" "1"
+}

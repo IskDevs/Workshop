@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+//note from Echo
+//full credits to Zachariah for the textures I didn't make them or port them.
+	"$basetexture" "models/echo/xenomorph/Xenomorph_D"
+	"$bumpmap" "models/echo/xenomorph/isonormal"
+	
+$surfaceprop Alienflesh
+
+$phong 1
+$phongfresnelranges "[1 1 1]"
+$halflambert 1
+$phongexponent 10
+$phongboost 5
+}

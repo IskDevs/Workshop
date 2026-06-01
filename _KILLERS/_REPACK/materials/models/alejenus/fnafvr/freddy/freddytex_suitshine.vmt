@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/alejenus/fnafvr/freddy/freddytex_suitshine"
+	"$bumpmap" "models/alejenus/fnafvr/freddy/freddynormal_suit"
+	"$surfaceprop" "Metal"
+	"$phong" 1
+	"$phongboost" 2
+	"$phongexponent" 0
+	"$phongfresnelranges" "[0 1 1]"
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\dravenjv01\fnafhw\nightmarefredb\Endo_Diffuse"
+	"$bumpmap" "models\dravenjv01\fnafhw\nightmarefredb\Endo_Normal"
+	"$phongexponent" "20"
+	"$phongboost"    "30"
+	"$phongfresnelranges"    "[0.05 0.5 1]"
+	"$phong" "1"
+	"$AmbientOcclusion" "1"
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture     "dev/null"
+	$emissiveBlendBaseTexture	"models\dravenjv01\fnafhw\nightmarefredb\Endo_Emission"
+	$emissiveBlendTint "[1 0 0]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 0]"
+}

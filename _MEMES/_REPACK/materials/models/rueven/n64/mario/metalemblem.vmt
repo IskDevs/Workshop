@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "models/rueven/n64/mario/MetalBase"
+	"$bumpmap" "models/rueven/n64/mario/Emblem_N"
+	"$envmap"  "models/rueven/n64/mario/MetalEnv"
+	"$envmapsphere" "1"
+	"$envmaptint" "0.5"
+}

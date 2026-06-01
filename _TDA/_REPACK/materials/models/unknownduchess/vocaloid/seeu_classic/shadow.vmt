@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\unknownduchess\vocaloid\seeu_classic\head"
+	"$bumpmap" "models\unknownduchess\vocaloid\seeu_classic\normal"
+	"$nodecal" "1"
+	"$nocull" "1"
+
+	"$lightwarptexture" "models\unknownduchess\vocaloid\seeu_classic\facewarp"
+	"$translucent" "1"
+}

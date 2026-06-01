@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rueven/n64/shared/White"
+	"$bumpmap" "models/rueven/n64/shared/MarioGenericBump"
+	"$phong" "1"
+   	"$phongboost" "0.2"
+   	"$phongexponent" "2"
+   	"$phongfresnelranges" "[0.1 0.23 0.945]"
+   	"$phongtint"	"[60 60 60]"
+    	"$phongdisablehalflambert" "1"
+}

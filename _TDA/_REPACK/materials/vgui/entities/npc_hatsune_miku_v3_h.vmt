@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/npc_hatsune_miku_v3_h"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

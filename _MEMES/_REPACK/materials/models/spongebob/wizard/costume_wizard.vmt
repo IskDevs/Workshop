@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spongebob/wizard/T_Costume_Wizard_D"
+	"$bumpmap" "models/spongebob/wizard/T_Costume_Wizard_N"
+
+	"$phong" 1
+	"$halflambert" 1
+}

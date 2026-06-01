@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\tf\coda\coolioart\fnafsb\vanny\Eye1_Diffuse"
+
+
+   	$surfaceprop metal
+
+	"$phong"    		"1"
+	"$phongwarptexture"	"dev\null"
+	"$invertphongmask"	"1"
+	"$phongboost"		"2"
+	"$phongexponent"		"8"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint"		"0.0"
+
+	"$basemapluminancephongmask" "1"
+	"$normalmapalphaenvmapmask"  "1"
+	"$model" "0"
+	"$diffuseexp" "1.5"
+}
+
+
+///VMT made by TF541Productions
+
+
+
