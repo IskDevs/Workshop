@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "zerochain/zpn/particles/zpn_particle_flame01"
-	"$additive" "1"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-}

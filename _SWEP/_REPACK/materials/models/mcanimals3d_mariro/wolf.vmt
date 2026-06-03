@@ -1,5 +1,0 @@
-"vertexlitgeneric" {
-    "$basetexture" "models\mcanimals3d_mariro\wolf"
-    "$surfaceprop" "flesh"
-    "$reflectivity" "[0.675 0.675 0.675]"
-}
