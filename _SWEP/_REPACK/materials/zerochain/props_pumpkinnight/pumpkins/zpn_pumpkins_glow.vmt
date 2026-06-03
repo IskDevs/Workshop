@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"	
+	
+	"$baseTexture"			"zerochain/props_pumpkinnight/pumpkins/zpn_pumpkins_glow"
+
+	// Emissive Scroll Pass
+	"$emissiveBlendEnabled"     "1"
+	"$emissiveBlendTexture" "zerochain/props_pumpkinnight/ghost/null"
+	"$emissiveBlendBaseTexture" "zerochain/props_pumpkinnight/pumpkins/zpn_pumpkins_glow"
+	"$emissiveBlendFlowTexture" "zerochain/props_pumpkinnight/ghost/null"
+	"$emissiveBlendTint"        "[1 1 1]"
+	"$emissiveBlendStrength" "1"
+	"$emissiveBlendScrollVector" "[0.1 0.12]"
+
+	$selfillum 1
+	$selfillumtint "[1 1 1]"
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+ "$basetexture" "zerochain/zpn/vgui/zpn_swep_partypopper"
+ "$vertexcolor" 1
+ "$vertexalpha" 1
+ "$translucent" 1
+}
