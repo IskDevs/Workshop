@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Shino", "models/shino_bane.mdl" );

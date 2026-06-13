@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/brvnx/monsterhigh/rochelle/mat3"
+	"$nocull" 1
+}

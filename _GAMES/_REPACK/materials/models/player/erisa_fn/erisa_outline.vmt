@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/erisa_fn/erisa_outline"
+	"$selfillum" "1"
+}

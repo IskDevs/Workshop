@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\outlaw\doometernal\slayer\equipmentlauncher_3rdp_d"
+	"$bumpmap" "models\outlaw\doometernal\slayer\equipmentlauncher_3rdp_n"
+	
+	
+	"$color2"			"[0. 0. 0.]"
+	"$blendTintByBaseAlpha" "1"
+	
+	"$PhongAlbedoTint" "1"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\outlaw\doometernal\slayer\equipmentlauncher_3rdp_e"
+	"$phongwarptexture" "models\outlaw\doometernal\slayer\phongwarp"
+	"$phongexponent" "1"
+	"$phongalbedotint" 1
+	"$phongboost"	"7"
+	"$phongfresnelranges"	"[1 2.05 3.25]"	
+	
+	
+}

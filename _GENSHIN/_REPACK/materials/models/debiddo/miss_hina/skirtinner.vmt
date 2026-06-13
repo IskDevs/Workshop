@@ -1,0 +1,7 @@
+patch {
+   include "materials/models/debiddo/miss_hina/vertexlit_anime.vmt"
+   insert {
+      $basetexture "models/debiddo/miss_hina/skirtinner"
+      $alphatest 1
+   }
+}

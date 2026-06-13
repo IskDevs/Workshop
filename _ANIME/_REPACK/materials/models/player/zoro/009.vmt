@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	$basetexture "models/player/zoro/014"
+    "$surfaceprop" "Mcloth"
+$phong 1
+$phongboost 2
+$phongexponent 20
+$phongfresnelranges "[.6 1 2]"
+
+
+}

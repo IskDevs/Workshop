@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Masha_v1/Masha_v1_tex"
+	"$halflambert" "1"
+	"$nocull" "1"
+	"$alphatest" 1
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/salv/Taokaka/tao_tail"
+	"$bumpmap" "models/salv/Taokaka/footfemale_n"
+	"$phong" 			"1"
+	"$phongexponent" 		"5"
+	"$phongboost"		"3"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+
+
+

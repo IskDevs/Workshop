@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/libertyforce/mami/body109"
+	"$surfaceprop" "Flesh"
+	"$model" 1
+	"$nocull" 1
+	"$halflambert"	1
+}

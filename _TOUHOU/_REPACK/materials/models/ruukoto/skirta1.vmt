@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\ruukoto\SkirtA1"
+	"$nocull" 1
+}

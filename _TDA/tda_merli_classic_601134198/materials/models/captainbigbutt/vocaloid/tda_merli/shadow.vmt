@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\captainbigbutt\vocaloid\tda_merli\face"
-	"$bumpmap" "models\captainbigbutt\vocaloid\tda_merli\normal"
-
-	"$lightwarptexture" "models\captainbigbutt\vocaloid\tda_merli\facewarp"
-	"$translucent" "1"
-}

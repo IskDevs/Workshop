@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Vados PM", "models/kryptonite/vados/vados.mdl" )

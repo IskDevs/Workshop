@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Appule\tongue"
+
+	"$model" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

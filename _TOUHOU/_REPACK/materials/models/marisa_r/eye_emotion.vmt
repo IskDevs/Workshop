@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/marisa_r/eye_emotion"
+	"$bumpmap" "models\marisa_r\normal"
+
+	"$lightwarptexture" "models\marisa_r\lightwarptexture"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\marisa_r\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+	"$translucent" 1
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

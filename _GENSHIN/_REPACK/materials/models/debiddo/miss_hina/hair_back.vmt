@@ -1,0 +1,8 @@
+patch {
+   include "materials/models/debiddo/miss_hina/vertexlit_anime.vmt"
+   insert {
+      $basetexture "models/debiddo/miss_hina/hair_back"
+      $rimlightboost ".5"
+		$rimlightexponent "15"
+   }
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Masha_Winter/Masha_cloth"
+	"$halflambert" "1"
+	"$nocull" "1"
+}

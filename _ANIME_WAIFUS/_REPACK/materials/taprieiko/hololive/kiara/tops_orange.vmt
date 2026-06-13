@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Taprieiko\hololive\kiara\tops"
+	"$lightwarptexture" "girlsfrontline\hk416/shader_me"
+	"$bumpmap" "girlsfrontline\hk416/normal"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "1"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+        	"$phongalbedoboost"	"1"
+	"$phongexponenttexture" "girlsfrontline\hk416/phong_e"
+	"$phongfresnelranges"	"[.6 .8 .5]"
+	"$phongexponent" "195"
+	"$phongDisableHalfLambert" "1"
+	"$phongwarptexture" "girlsfrontline\hk416/shader_skin"
+	"$nodecal" 1
+}

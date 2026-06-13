@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\hsr\Boothill\hair"
+	"$nocull" 1
+	"$nodecal" 1
+	$alphatest 1
+
+	"$lightwarptexture" "models\hsr\Boothill\toon_hair"
+
+	"$phong" "1"
+	"$phongboost"	"18"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0.005 0.005 0.005]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "1"
+	"$rimlightboost"          "1"
+} 

@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vessie/cm3d2/vessiesuccubus/panties2"
+
+	"$translucent" "1"
+	"$mostlyopaque" "1"
+	//"$model" "1"
+	"$nodecal" "1"
+	"$allowalphatocoverage" 1
+	"$halflambert" "1"
+
+	"$lightwarptexture" "models/vessie/cm3d2/vessiesuccubus/toon_all"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/vessie/cm3d2/vessiesuccubus/phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

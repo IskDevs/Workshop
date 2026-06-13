@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vessie/cm3d2/vessiesuccubus/hat"
+	"$bumpmap" "models\vessie/cm3d2/vessiesuccubus/hat_n"
+	//"$translucent" "1"
+	//"$model" "1"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/vessie/cm3d2/vessiesuccubus/phong_exp"
+	"$phongfresnelranges"	"[0.55 0.55 0.10 ]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.015 0.015 0.015]"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$lightwarptexture" "models/vessie/cm3d2/vessiesuccubus/toon_all"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "1"
+	"$nodecal" 1
+}

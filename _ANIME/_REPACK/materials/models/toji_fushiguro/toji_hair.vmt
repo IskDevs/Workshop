@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/toji_fushiguro/toji_hair"
+	"$lightwarptexture" "models/toji_fushiguro/lightwarpshader"
+}

@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/kemono_friends/gray_wolf/legs"
+	"$bumpmap" "models/kemono_friends/gray_wolf/normal"
+	//"$translucent" "1"
+	//"$model" "1"
+	//"$nodecal" "1"
+	//"$nocull" "1"
+	//"$alphatest" 1
+	//"$allowalphatocoverage" 1
+	//"$halflambert" "1"
+
+	"$lightwarptexture" "models/kemono_friends/gray_wolf/lightwarptexture"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/kemono_friends/gray_wolf/phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

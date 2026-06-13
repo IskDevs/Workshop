@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\genshin_impact\baal/face"
+                $color2 "[ 1 1 1]"
+	$surfaceprop Flesh
+
+                $normalmapalphaenvmapmask "0"
+
+
+                $lightwarptexture "models\genshin_impact\baal/toon_n"
+
+	$alphatest 0
+                $nocull 1
+
+	$phong 1
+                "$phongfresnelranges"    "[1 1 0.945]"
+	$phongalbedotint 0
+                $phongtint "[ 1 1 1]"
+	$phongexponent 0.1
+	$phongboost 0.001
+	$phongalbedoboost 4
+
+	$rimlight 0
+	$rimlightexponent 5
+	$rimlightboost 0.5
+	$rimlightmask 1
+
+
+	$rimmask 1
+}

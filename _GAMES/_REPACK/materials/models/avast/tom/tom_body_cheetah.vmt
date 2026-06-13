@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/avast/tom/Tom_Body_Cheetah"
+	"$nocull" 1
+}

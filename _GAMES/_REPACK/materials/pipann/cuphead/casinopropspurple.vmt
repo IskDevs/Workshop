@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "pipann/Cuphead/casinopropspurple_DIF"
+	$phongexponenttexture "pipann/Cuphead/cuphead_PHONG"
+	$bumpmap "pipann/Cuphead/casinoprops_NRM"
+
+
+	 $phong "1"
+}

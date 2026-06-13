@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Sonic Generations - Big the Cat", "models/player/Sonic/Big_pm.mdl" )
+player_manager.AddValidHands( "Sonic Generations - Big the Cat", "models/player/Sonic/Big_hands.mdl", 0, "0000000" )

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoyoverse/navia/Avatar_Lady_Claymore_Navia_Mat_Hair"
+	"$bumpmap" "models/hoyoverse/navia/Avatar_Lady_Claymore_Navia_Mat_Hair_N"
+                "$lightwarptexture" "models/hoyoverse/navia/basewarp"
+	"$nocull" 1
+	"$nodecal" 1
+}

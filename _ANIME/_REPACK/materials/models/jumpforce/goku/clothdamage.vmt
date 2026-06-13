@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jumpforce/goku/clothdamage"
+	"$bumpmap" "models/jumpforce/goku/clothdamage_n"
+	"$nocull" "1"
+	"$phong" "1"
+	$phongboost .04
+	"$phongexponent" "15"
+	"$phongalbedotint" "1"
+	"$phongtint"                    "[.6 .8 1]"
+	"$phongfresnelranges"           "[1 2.5 7]"
+	$alphatest 1
+$allowalphatocoverage 1
+$ambientocclusion 1
+}

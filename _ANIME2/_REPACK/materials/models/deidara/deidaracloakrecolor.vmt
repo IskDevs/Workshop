@@ -1,0 +1,10 @@
+
+"VertexlitGeneric"
+{
+	"$basetexture" "models/deidara/deidaracloakrecolor"
+                "$bumpamap"  "models/deidara/deidaracloakrecolor"
+                                   "$alphatest" "1"
+
+                                   "$halflambert" "1"
+
+}

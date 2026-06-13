@@ -1,2 +1,0 @@
-list.Set( "PlayerOptionsModel", "Fifth Kazekage Gaara", "models/player/kazekage_garaa/kazekage_garaa.mdl" );
-player_manager.AddValidModel( "Fifth Kazekage Gaara", "models/player/kazekage_garaa/kazekage_garaa.mdl" );

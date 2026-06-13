@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\dizcordum\body\exc"
+	"$bumpmap" "models\dizcordum\body\exc_n"
+   	"$halflambert" "1"
+	
+
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "15"
+	"$phongfresnelranges" "[.1 1 .2]"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/onepiece/yamato/mask"
+	"$bumpmap" "models/onepiece/yamato/mask_bump"
+}

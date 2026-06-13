@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "mad_models/robin/Body"
+	"$lightwarptexture" "mad_models/toon"
+	"$nocull" 1
+	"$nodecal" 1
+}

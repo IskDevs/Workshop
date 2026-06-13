@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "mad_obito/Eyes"
+	"$lightwarptexture" "mad_obito/toon"
+	"$nocull" 1
+	"$nodecal" 1
+}

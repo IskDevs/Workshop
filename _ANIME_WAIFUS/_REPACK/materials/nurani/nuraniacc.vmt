@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Nurani/NuraniAcc"
+	"$bumpmap" "Nurani/SuitNormal"
+	"$surfaceprop" "Dirt"
+	"$nocull" 1
+	"$model" 1
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[0.10 0.10 0.10]"
+	"$phongexponent" "10"
+	"$rimlight" "1"									
+	"$rimlightexponent" "5"								
+	"$rimlightboost" "1"	 
+}

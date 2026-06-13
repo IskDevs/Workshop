@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+$Basetexture	"Models\hollowknight\vessel\Face_Zote"
+
+$Phong 1
+$Bumpmap	"Models\hollowknight\vessel\Flat"
+$PhongFresnelRanges	.2
+$Phongexponent	25
+$Phongboost	3
+}

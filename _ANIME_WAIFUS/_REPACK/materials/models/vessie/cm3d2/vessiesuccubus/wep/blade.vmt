@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vessie/cm3d2/vessiesuccubus/wep/sword"
+	"$bumpmap" "models/vessie/cm3d2/vessiesuccubus/wep/sword_n"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"50"
+	"$phongtint" "[2 0 2.1]"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/vessie/cm3d2/vessiesuccubus/wep/phong_exp"
+	"$phongfresnelranges"	"[0.15 0.15 0.3 ]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.09 0.09 0.09]"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$ambientocclusion" "1"
+	"$nodecal" "1"
+
+	"$selfillum" "1"
+	"$selfillummask" "models/vessie/cm3d2/vessiesuccubus/wep/sword_glow"
+
+	"$detail" "models/vessie/cm3d2/vessiesuccubus/wep/sword_glow"
+	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "5"
+}

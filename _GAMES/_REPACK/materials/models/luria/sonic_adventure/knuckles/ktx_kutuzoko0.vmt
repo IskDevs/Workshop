@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Luria\Sonic_Adventure\Knuckles\ktx_kutuzoko0"
+	"$bumpmap" "models\Luria\Sonic_Adventure\Sonic\Bump"
+
+ 	"$phong" "1"
+}
