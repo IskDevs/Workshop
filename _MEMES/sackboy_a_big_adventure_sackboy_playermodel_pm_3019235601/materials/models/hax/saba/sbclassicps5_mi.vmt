@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+    	"$basetexture"              		"models/hax/saba/Sackboy_Gmod_A"
+	"$bumpmap"					"models/hax/saba/Sackboy_Gmod_N"
+
+	"$model"				"1"
+	"$surfaceprop"      			"metal"
+}

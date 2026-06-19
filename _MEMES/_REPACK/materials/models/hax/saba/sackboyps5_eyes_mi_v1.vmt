@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hax/saba/eye"
+	"$halflambert" "1"
+	"$bumpmap" "models/hax/saba/phong"
+
+	"$phong" "1"
+	"$phongexponent" "31"
+	"$phongboost" "2"
+	"$phongexponenttexture" "models/hax/saba/exponent"
+	"$phongfresnelranges"	"[1 0 0]"
+}

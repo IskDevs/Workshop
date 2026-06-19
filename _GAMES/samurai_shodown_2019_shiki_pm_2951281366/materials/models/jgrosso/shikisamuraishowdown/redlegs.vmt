@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jgrosso/ShikiSamuraiShowdown/redlegs"
+	"$bumpmap" "models/jgrosso/ShikiSamuraiShowdown/sik_nor"
+	"$envmap" "models/jgrosso/ShikiSamuraiShowdown/sik_spe"
+	"$translucent" 1
+}

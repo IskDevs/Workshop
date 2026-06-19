@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jgrosso/ShikiSamuraiShowdown/sik_col"
+	"$bumpmap" "models/jgrosso/ShikiSamuraiShowdown/sik_nor"
+	"$envmap" "models/jgrosso/ShikiSamuraiShowdown/sik_spe"
+	"$phong" 1
+	$PhongBoost 50
+	$PhongExponent 20
+	$PhongFresnelRanges "[0 0.5 1]"
+	"$ambientocclusion" 1
+}

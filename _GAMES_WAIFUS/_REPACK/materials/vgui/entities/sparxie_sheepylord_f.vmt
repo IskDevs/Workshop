@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "vgui/entities/sparxie_sheepylord_F"
+	$vertexalpha 1
+	$vertexcolor 1
+}

@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "vgui/entities/Kokona___Space_Engineer_sheepylord_F"
+	$vertexalpha 1
+	$vertexcolor 1
+}
