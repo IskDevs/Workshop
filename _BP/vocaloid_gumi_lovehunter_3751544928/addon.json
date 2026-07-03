@@ -1,0 +1,10 @@
+{
+  "title": "Vocaloid - Gumi (Lovehunter)",
+  "type": "model",
+  "tags": [
+    "fun"
+  ],
+  "ignore": [
+    "resource/geologica.ttf"
+  ]
+}

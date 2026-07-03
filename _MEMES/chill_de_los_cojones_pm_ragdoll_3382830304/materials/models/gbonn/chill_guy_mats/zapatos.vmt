@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture "models/gbonn/chill_guy_mats/zapatos"
+	$bumpmap "null-bumpmap"
+	$lightwarptexture "models/gbonn/chill_guy_mats/lightwarp"
+	$halflambert 1
+	$phong 1
+	$phongexponent .1
+	$phongboost .1
+	$phongfresnelranges "[.1 .1 .1]"
+}
+
