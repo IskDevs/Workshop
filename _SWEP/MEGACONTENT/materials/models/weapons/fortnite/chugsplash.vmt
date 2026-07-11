@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/fortnite/chugsplash"
+	"$bumpmap"	 	"models/weapons/fortnite/chugsplash_bump"
+	$phong 1
+	$phongboost 5.2
+	$phongfresnelranges "[0 0.5 0.2]"
+	$phongalbedotint 1
+
+	$rimlight               1
+	$rimlightexponent       18
+	$rimlightboost        2.85
+}

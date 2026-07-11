@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/fortnite/fortnite_hands"
+	"$bumpmap"	 	"models/weapons/fortnite/hand_bump"
+	$phong 1
+	$phongboost 0.2
+	$phongfresnelranges "[0 0.5 1]"
+	$phongalbedotint 1
+
+	$rimlight               1
+	$rimlightexponent       20
+	$rimlightboost        0.2
+}

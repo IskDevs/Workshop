@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/witchygmod/requested/codwz/artheclown/artheclown_feet_d"
+	"$bumpmap" "models/witchygmod/requested/codwz/artheclown/artheclown_feet_n"
+	"$halflambert" 1
+
+	"$phong" "1"
+                "$phongexponent" "100"
+                "$phongboost" "0.2"
+                "$phongfresnelranges" "[.24 .24 .24 ]"
+}

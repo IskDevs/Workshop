@@ -1,1 +1,0 @@
-player_manager.AddValidModel( "Bloom","models/player/bloom.mdl" );

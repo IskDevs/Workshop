@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "model/g41/girlsfrontline/clancy/Tears"
-	"$nocull" 1
-	"$nodecal" 1
-	"$translucent" 1
-}

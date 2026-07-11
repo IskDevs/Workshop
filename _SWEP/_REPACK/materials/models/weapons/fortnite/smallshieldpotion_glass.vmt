@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/fortnite/smallshieldpotion_glass"
+	"$translucent"	"1"
+}

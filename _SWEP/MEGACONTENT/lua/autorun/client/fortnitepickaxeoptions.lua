@@ -1,0 +1,26 @@
+if CLIENT then
+CreateClientConVar( "game_pick_fortnite_Default", "1", true, false )
+CreateClientConVar( "game_pick_fortnite_Disco", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_Llama", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_CleanCut", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_Axercise", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_AbominableAxe", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_Axeroni", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_DirectorsCut", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_Reaper", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_ForkKnife", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_DeathValley", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_GlobalAxe", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_PartyAnimal", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_ACDC", "0", true, false )
+CreateClientConVar( "game_pick_fortnite_Marshmello", "0", true, false )
+
+hook.Add( "PopulateToolMenu", "AddonSettings", function()
+	spawnmenu.AddToolMenuOption( "Options", "Fortnite Pickaxe", "Fortnite_Pickaxe", "Select Skin", "", "", function( panel )
+		panel:ClearControls()
+		panel:AddControl("Button",{Text = "Skin Browser", Command = "OpenFortniteBrowser"})
+end )
+end )
+end
+
+concommand.Add("OpenFortniteBrowser", FortniteBrowser)
