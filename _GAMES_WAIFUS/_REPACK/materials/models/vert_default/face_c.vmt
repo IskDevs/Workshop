@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vert_default/face_c"
+	"$bumpmap" "models\vert_default\normal"
+
+	"$lightwarptexture" "models\vert_default\lightwarptexture"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\vert_default\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

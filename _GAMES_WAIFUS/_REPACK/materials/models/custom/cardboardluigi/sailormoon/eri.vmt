@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/custom/cardboardluigi/sailormoon/eri"
+	"$nocull" 1
+}

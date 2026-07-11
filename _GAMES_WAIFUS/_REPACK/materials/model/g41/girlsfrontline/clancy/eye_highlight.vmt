@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model/g41/girlsfrontline/clancy/Eye_Highlight"
+	"$alphatest" 1
+	"$nocull" 1
+	"$nodecal" 1
+	"$translucent" 1
+
+	"$lightwarptexture" "model\g41\girlsfrontline\clancy\skinwarp"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "model\g41\girlsfrontline\clancy\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

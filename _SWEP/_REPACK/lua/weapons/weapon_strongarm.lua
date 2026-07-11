@@ -32,8 +32,8 @@ SWEP.WorldModel = "models/weapons/w_nerf_strongarm.mdl"
 SWEP.HoldType = "pistol"
 
 SWEP.Primary.Ammo = "Pistol"
-SWEP.Primary.ClipSize = 6
-SWEP.Primary.DefaultClip = 6
+SWEP.Primary.ClipSize = 15
+SWEP.Primary.DefaultClip = 15
 SWEP.Primary.Automatic = true
 
 SWEP.Secondary.Ammo = "none"

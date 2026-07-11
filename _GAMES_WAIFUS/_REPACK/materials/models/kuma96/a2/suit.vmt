@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/a2/suit_d"
+	$bumpmap "models/kuma96/a2/suit_ns"
+	
+	$phong 1
+	$phongexponent 13
+	$phongboost 15
+	$phongfresnelranges "[0.05 0.5 1.0]"
+}

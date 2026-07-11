@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/black_cat_jinx/chobe"
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongalbedotint" "1"
+	"$phongexponent" "20"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$lightwarptexture" "models/dewobedil/black_cat_jinx/toon_all"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "1"
+}

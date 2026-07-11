@@ -1,0 +1,47 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tt\ravent/body"
+                "$bumpmap" "models\tt\ravent/body_n"
+                $color2 "[ 1 1 1]"
+	$surfaceprop Flesh
+
+                $normalmapalphaenvmapmask "1"
+
+                $blendtintbybasealpha 1
+
+                $lightwarptexture "models\tt\ravent/toon_n"
+
+	$alphatest 0
+                $nocull 0
+
+	$phong 1
+                "$phongfresnelranges"    "[0.15 1 0.945]"
+	$phongalbedotint 1
+                $phongtint "[ 0.8 1 1]"
+	$phongexponent 1
+	$phongboost 1
+	$phongalbedoboost 4
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 0.1
+	$rimlightmask 1
+
+
+	$rimmask 1
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default 		1 1 1
+		}
+		Clamp // clamp the chosen color between 1% and 125% (usually)
+		{
+			min 0.2
+			max 1.25
+			srcVar1 "$color2"
+			resultVar "$color2"
+		}
+	}
+}

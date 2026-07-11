@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/a2/suit_d"
+	$bumpmap "models/kuma96/a2/suit_ns"
+	
+	$halflambert 1
+	$nodecal 1
+	
+	$lightwarptexture "models/chell/skin_warp"
+}
