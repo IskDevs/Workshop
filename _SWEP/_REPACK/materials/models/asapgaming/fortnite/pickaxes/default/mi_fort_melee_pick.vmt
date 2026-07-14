@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/asapgaming/fortnite/pickaxes/default/MI_FORT_Melee_Pick"
+	"$bumpmap" "models/asapgaming/fortnite/pickaxes/default/MI_FORT_Melee_Pick_n"
+
+	$halflambert 1
+}

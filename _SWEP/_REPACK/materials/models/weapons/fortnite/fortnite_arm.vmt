@@ -1,12 +1,28 @@
-"VertexlitGeneric"
+"Wireframe"
 {
-	"$basetexture" "models/weapons/fortnite/fortnite_arm"
-		"$bumpmap"	 	"models/weapons/fortnite/arm_bump"
-	$phong 1
-	$phongboost 0.1
-	$phongfresnelranges "[0 0.2 0.8]"
-	$phongalbedotint 1
+	Proxies
+	{
 
-	$rimlight               1
-	$rimlightexponent       20
+		Sine
+		{
+			sineperiod 2
+			sinemin 0
+			sinemax 1
+			resultVar "$color2[0]"
+		}
+		Sine
+		{
+			sineperiod 3
+			sinemin 0
+			sinemax 1
+			resultVar "$color2[1]"
+		}
+		Sine
+		{
+			sineperiod 4
+			sinemin 0
+			sinemax 1
+			resultVar "$color2[2]"
+		}
+	}
 }

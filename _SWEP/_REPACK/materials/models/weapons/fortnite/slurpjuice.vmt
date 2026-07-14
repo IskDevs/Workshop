@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/weapons/fortnite/slurpjuice"
-	"$selfillum"	 "1"
-    	"$selfillummask" "models/weapons/fortnite/slurpjuice_glow"
-	"$translucent" "1"
-}
