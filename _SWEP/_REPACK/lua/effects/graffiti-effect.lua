@@ -3,6 +3,8 @@ function EFFECT:Init(data)
     self.StartPos = self:GetTracerShootPos(data:GetOrigin(), data:GetEntity(), data:GetAttachment())
     self.Emitter = ParticleEmitter(self.StartPos)
 
+    if (not IsValid(self.Emitter)) then return end
+    
     for i = 1, 5 do
         local particle = self.Emitter:Add('sprites/orangecore1', self.StartPos)
         particle:SetDieTime(math.Rand(0.3, 0.4))
@@ -16,6 +18,8 @@ function EFFECT:Init(data)
         particle:SetRollDelta(math.Rand(-10, 10))
         particle:SetCollide(true)
     end
+
+    self.Emitter:Finish()
 end
 
 function EFFECT:Think()
